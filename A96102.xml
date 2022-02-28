@@ -1,0 +1,894 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The clerk of assize, judges-marshall, and cryer being the true manner and form of the proceedings at the assizes and generall goale-delivery, both in the Crown Court, and Nisi Prius Court, and the right wayes of entering of all pleas, verdicts, judgments, and orders in either of the said courts. To which is added an ancient brief tract of the common lawes of England, written in Latine. / By T.W.</title>
+            <author>T. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 40 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96102</idno>
+            <idno type="STC">Wing W113</idno>
+            <idno type="STC">Thomason E2139_3</idno>
+            <idno type="STC">ESTC R203975</idno>
+            <idno type="EEBO-CITATION">99863725</idno>
+            <idno type="PROQUEST">99863725</idno>
+            <idno type="VID">115938</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96102)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115938)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 243:E2139[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The clerk of assize, judges-marshall, and cryer being the true manner and form of the proceedings at the assizes and generall goale-delivery, both in the Crown Court, and Nisi Prius Court, and the right wayes of entering of all pleas, verdicts, judgments, and orders in either of the said courts. To which is added an ancient brief tract of the common lawes of England, written in Latine. / By T.W.</title>
+                  <author>T. W.</author>
+               </titleStmt>
+               <extent>[6], 69, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Timothy Twyford, and are to be sold at his shop within the Inner Temple Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Principia sive maxima legum Anglia [sic]", originally published in 1546, has separate divisional title; pagination and register are continuous.</note>
+                  <note>Last three pages = table of contents.</note>
+                  <note>Annotation on Thomason copy: "July".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  England --  Early works to 1800.</term>
+               <term>Courts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115938:1" rendition="simple:additions"/>
+            <p>THE CLERK OF ASSIZE, JUDGES-MARSHALL, AND CRYER: BEING The true Manner and Form of the Pro<g ref="char:EOLhyphen"/>ceedings at the Aſſizes and Generall Goale-Delivery, both in the Crown Court, and <hi>Niſi Prius</hi> Court, AND The Right wayes of entering of all Pleas, Verdicts, Judgments, and Orders in either of the ſaid Courts. By <hi>T. W.</hi> To which is Added An ancient Brief Tract of the Common Lawes of <hi>ENGLAND,</hi> written in Latine, </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Timothy Twyford,</hi> and are to be ſold at his Shop within the Inner Temple Gate, 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:115938:2"/>
+            <head>TO THE READER.</head>
+            <p>THE Government of this Nation being now again happily brought into its ancient and right Courſe, and that the Proceedings in Courts of Juſtice to be in the Kings name, and in Latine, and Court-hand (the good old way.) I have (for the In<g ref="char:EOLhyphen"/>formation and Direction of ſuch Officers as are to be im<g ref="char:EOLhyphen"/>ployed
+<pb facs="tcp:115938:3"/> for the diſpatch of the buſineſſes at the Aſſizes, and were not well acquainted with the wayes and manner of Proceedings there, in the time of the late King) ſet forth and publiſhed this ſmall Manuel, wherein not onely the Clerk of Aſsize, and other Aſſociates may be fully furniſhed with inſtructions, to diſcharge the Duties of the ſeverall places: But the Mar<g ref="char:EOLhyphen"/>ſhalls, Cryers, and other the Judges Officers may find all ſuch Oaths and Words as are by them to be adminiſtred, &amp; uſed, both in the Crown court, and <hi>Niſi Prius</hi> Court. To which I have alſo added the
+<pb facs="tcp:115938:3"/> way and manner of entring all Orders, Pleas, Verdicts, and Judgments in either of the ſaid Courts: And I doubt not but it will give good ſa<g ref="char:EOLhyphen"/>tisfaction to ſuch perſons as have occaſion to uſe ſuch In<g ref="char:EOLhyphen"/>ſtructions, and be offenſive to none,</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115938:4"/>
+            <pb n="1" facs="tcp:115938:4"/>
+            <head>
+               <hi>The Clerk of the Aſſizes, Judges, and Marſhalls, and Cryers di<g ref="char:EOLhyphen"/>rections: Being</hi> The manner and form of Proceedings at the Aſſizes and generall Goale-Delivery, holden by his Majeſties Juſtices according to the Law and cuſtome of <hi>ENGLAND.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>IRST, when the Court is ſet, the Cryer muſt make three Proclamations.</p>
+            <p>Then the Clerk of Aſſize muſt cauſe him to ſay as fol<g ref="char:EOLhyphen"/>loweth,</p>
+            <p>
+               <hi>Viz.</hi>
+            </p>
+            <p>My Lords, the Kings Juſtice ſtraight<g ref="char:EOLhyphen"/>ly charge and command all manner of perſons to keep ſilence, and hear the Kings Majeſties Commiſſions openly read, upon pain of impriſonment.</p>
+            <pb n="2" facs="tcp:115938:5"/>
+            <p>Then muſt the Clark of the Aſſizes read.</p>
+            <list>
+               <item>1 Patent of Aſſize.</item>
+               <item>2 The Patent of Aſſociation</item>
+               <item>3 The Writ of Admittance.</item>
+               <item>4 The Writ <hi>Si non omnes.</hi>
+               </item>
+            </list>
+            <p>And then muſt ſay, <hi>God ſave the King.</hi>
+            </p>
+            <p>
+               <note place="margin">Eſſoines.</note>Then the Cryer muſt make one Pro<g ref="char:EOLhyphen"/>clamation, and ſay,</p>
+            <p>If any man will be eſſoined in Aſſize of <hi>Novel diſſeiſin,</hi> Aſſize of <hi>Mortdaun<g ref="char:EOLhyphen"/>cester,</hi> Certificate of Aſſize, <hi>meis ul<g ref="char:EOLhyphen"/>trum,</hi> or <hi>Attaint,</hi> let him come forth and he ſhall be heard.</p>
+            <p>
+               <note place="margin">Sheriffs re<g ref="char:EOLhyphen"/>turns of the ſummons of Aſsize.</note>Then the Cryer muſt make another Proclamation, and ſay,</p>
+            <p>Sheriff of the County of <hi>L.</hi> return the Precepts and Writs of Aſſize, and <hi>Niſi prius</hi> to thee directed and delivered, up<g ref="char:EOLhyphen"/>on pain and perill, <hi>&amp;c.</hi>
+            </p>
+            <p>Then the Cryer muſt make another Proclamation, and ſay,</p>
+            <p>All manner of Perſons that have any Writs of Aſſize, or Records of <hi>Niſi pri<g ref="char:EOLhyphen"/>us</hi> to be put into the Court, put them in forthwith, or none ſhall be received.</p>
+            <p>Then muſt the Cryer make another Proclamation, and ſay,</p>
+            <pb n="3" facs="tcp:115938:5"/>
+            <p>All Juſtices of the Peace of our Sove<g ref="char:EOLhyphen"/>raign Lord the King within the County of <hi>L.</hi> anſwer to your names at the firſt call,<note place="margin">The forme of calling the Juſti<g ref="char:EOLhyphen"/>ces and o<g ref="char:EOLhyphen"/>ther Offi<g ref="char:EOLhyphen"/>cers.</note> upon pain and perill that may fall thereon.</p>
+            <p>Then the Clerk of the Aſſize muſt name them as they are returned in the Callender, and the Cryer muſt call them.</p>
+            <p>When they are called, then muſt the Cryer ſay, all Coroners of our Sove<g ref="char:EOLhyphen"/>raign Lord the King, within the County of <hi>L.</hi> anſwer to your names as you ſhall be called every man at the firſt call, upon pain and perill that ſhall fall there<g ref="char:EOLhyphen"/>on.</p>
+            <p>
+               <hi>Then they muſt be called as they are returned in the Callender.</hi>
+            </p>
+            <p>When they are called, then muſt be called all Stewards of Liberties of our Soveraign Lord the King, <hi>&amp;c.</hi> by th ir names as they are returned.</p>
+            <p>
+               <hi>After muſt be called the chief Constables as they are returned, and after them the Bailiffs of the Hun<g ref="char:EOLhyphen"/>dreds as they are returned.</hi>
+            </p>
+            <p>Giving unto them their ſtiles in the firſt place as all Stewards, <hi>&amp;c.</hi> And when they are done, all chief Conſtables,
+<pb n="4" facs="tcp:115938:6"/> 
+               <hi>&amp;c.</hi> And when they are done, then all Bayliffs of Hundreds, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Then muſt the Cryer make a Pro<g ref="char:EOLhyphen"/>clamation, and ſay,</hi>
+            </p>
+            <p>My Lords, the Kings Juſtices ſtraight<g ref="char:EOLhyphen"/>ly charge and command all manner of perſons to keep ſilence, and hear the Kings Majeſties Commiſſions of <hi>Oyer</hi> and <hi>Terminer,</hi> and generall Goal-delive<g ref="char:EOLhyphen"/>ry to be openly read, upon pain of im<g ref="char:EOLhyphen"/>priſonment.</p>
+            <p>Then muſt the Clerk of the Aſſizes read the Commiſſions of <hi>Oyer</hi> and <hi>Ter<g ref="char:EOLhyphen"/>miner,</hi> and generall Goal-delivery, that done, ſay, God ſave the King.</p>
+            <p>
+               <hi>Then muſt the Cryer make a Pro<g ref="char:EOLhyphen"/>clamation, and ſay,</hi>
+            </p>
+            <p>
+               <note place="margin">Calling for return of Inquiſiti<g ref="char:EOLhyphen"/>ons.</note>All Juſtices of Peace, Coroners, Stew<g ref="char:EOLhyphen"/>ards of Leets and Liberties, and other Officers that have taken any Inquiſiti<g ref="char:EOLhyphen"/>ons, Indictments, or Recognizances, whereby you have let any man to bayle, put in your Records thereof forthwith, that my Lords, the Kings Juſtices may proceed.</p>
+            <p>
+               <hi>Then muſt the Cryer make another Proclamation, and ſay,</hi>
+            </p>
+            <p>
+               <note place="margin">Form of calling the grand Jury.</note>You good men that be impannelled to enquire for our Soveraign Lord the
+<pb n="5" facs="tcp:115938:6"/> King, for the body of the County of <hi>L.</hi> anſwer to your names every man at the firſt call, upon pain and peril that ſhall fall thereon.</p>
+            <p>
+               <hi>Then the grand Jury muſt be cal<g ref="char:EOLhyphen"/>led by name, and when they have ap<g ref="char:EOLhyphen"/>peared, they muſt be ſworn by the Marſhall.</hi>
+            </p>
+            <p>
+               <hi>The fore-man muſt lay his hand on the Book, and then the Marſhall gives the oath as followeth.</hi>
+            </p>
+            <p>You as fore-man of this Inqueſt for the body of this County of <hi>L.</hi> you ſhall diligently inquire,<note place="margin">The oath of the grand Jury.</note> and a true preſent<g ref="char:EOLhyphen"/>ment make of all ſuch matters and things as ſhall be given you in charge: the Kings Majeſties Councell, your fellowes, and your own you ſhall keep ſecret, you ſhall preſent no man for envy, hatred, or malice, neither ſhall you leave any man unpreſented for love, fear, favour, or affection, or hope of reward, but you ſhall preſent things truly as they come to your knowledge, according to the beſt of your underſtanding, ſo God help you.</p>
+            <p>
+               <hi>The reſt of the grand Jury are ſworn as followeth.</hi>
+            </p>
+            <p>The ſame oath which your fore-man
+<pb n="6" facs="tcp:115938:7"/> hath taken on his part, you and every of you on your behalf, ſhall well and truly obſerve and keep, ſo help you God.</p>
+            <p>
+               <hi>When the grand Jury is ſworn, the Cryer must make Proclamation, and ſay,</hi>
+            </p>
+            <p>
+               <note place="margin">Charge gi<g ref="char:EOLhyphen"/>ving.</note>My Lords the Kings Juſtices, ſtraight<g ref="char:EOLhyphen"/>ly charge and command all perſons to keep ſilence whilſt the charge is in giving to the grand Jury, upon pain of impri<g ref="char:EOLhyphen"/>ſonment</p>
+            <p>
+               <hi>When the charge is given, the Cryer muſt make a Proclamation, and ſay,</hi>
+            </p>
+            <p>All manner of perſons that have any Bills of Indictment to put unto the great Inqueſt, put them into the Court firſt, that my Lords the Kings Juſtices may peruſe them, or elſe they ſhall not be received.</p>
+            <p>
+               <note place="margin">Calling of Proſecu<g ref="char:EOLhyphen"/>tors.</note>Then muſt be called the parties that are bound to proſecute by their Recog<g ref="char:EOLhyphen"/>nizances put in by the Juſtices, that they may get their Bills made againſt the Pri<g ref="char:EOLhyphen"/>ſoners, and be ſworn unto them by the Cryer, and ſent to the grand Jury to give Evidence.</p>
+            <p>
+               <hi>All this for the moſt part is finiſh<g ref="char:EOLhyphen"/>ed
+<pb n="7" facs="tcp:115938:7"/> the firſt day in the forenoon, And then the Court riſing.</hi>
+            </p>
+            <p>The Clerk of the Goal fileth up his Recognizances delivered in Court,<note place="margin">Filing of the Recog<g ref="char:EOLhyphen"/>nizances.</note> ſuch as are to proſecute againſt offendors up<g ref="char:EOLhyphen"/>on one file, and ſuch as are for appear<g ref="char:EOLhyphen"/>ance of offendors called bailes upon an<g ref="char:EOLhyphen"/>other file, and all examinations taken before Juſtices of Peace upon a third file, and taketh a little Note or Callen<g ref="char:EOLhyphen"/>der of them for the ready finding of them out as ſhall happen.</p>
+            <p>
+               <hi>When the Court fitteth in the af<g ref="char:EOLhyphen"/>ternoon, they ſend for the grand Ju<g ref="char:EOLhyphen"/>ry, who when they appear, the Clerk of Aſſize calleth them by their names, and demandeth of them if they be agreed of any Bills, if they ſay yea, the Clerk of the Aſſize bids them preſent them to the Court, and upon the delivery of them, he ſaith,</hi>
+            </p>
+            <p>You are content the Court ſhall a<g ref="char:EOLhyphen"/>mend forme, and falſe Latine, altering matter of no ſubſtance in thoſe Bills which you have found.</p>
+            <p>The grand Jury ſay yea, and ſo they go together again.</p>
+            <p>Then doth the Clerk of the Aſſize file up the Bills which are found upon<note place="margin">Filing the Bills.</note>
+               <pb n="8" facs="tcp:115938:8"/> the file with the Callender and Precept for ſummoning of the Aſſize formerly returned by the Sheriff, and that being orderly done, and the Jailor having brought his Priſoners to the Hall,</p>
+            <p>
+               <hi>The Cryer maketh Proclamation, and ſaith,</hi>
+            </p>
+            <p>My Lords the Kings Juſtices ſtraightly charge and command all perſons to keep ſilence, for now they will proceed upon the Pleas of the Crown to the arraign<g ref="char:EOLhyphen"/>ment of Priſoners upon life and death, and that all perſons that have any evi<g ref="char:EOLhyphen"/>dence to give againſt any of the Priſo<g ref="char:EOLhyphen"/>ners, draw near and give your atten<g ref="char:EOLhyphen"/>dance upon forfeiting your Recogni<g ref="char:EOLhyphen"/>zances.</p>
+            <p>Then doth the Clerk of the Aſſize be<g ref="char:EOLhyphen"/>gin with his firſt inditement upon the file in order, and biddeth the Jailor ſet the Priſoner named in that Indictment to the Bar; If he be let to baile, and not in the Goal, then the Clerk cauſeth the Cryer to call him on this manner,</p>
+            <p>
+               <note place="margin">Calling of bailes.</note>
+               <hi>A. B.</hi> come forth, ſave thee and thy baile, or elſe thou forfeiteſt thy Recog<g ref="char:EOLhyphen"/>nizance.</p>
+            <p>If he appear not, then call the ſure<g ref="char:EOLhyphen"/>ties on this manner,</p>
+            <pb n="9" facs="tcp:115938:8"/>
+            <p>
+               <hi>J. W.</hi> and <hi>T. S.</hi> with their additions as they are written, bring forth <hi>A. B.</hi> whom you undertook to have here this day, or elſe you forfeit your Recogni<g ref="char:EOLhyphen"/>zance.</p>
+            <p>If he appears not, then the Clerk of the Aſſizes paſſeth by that Indictment, and calleth to the Goaler to ſet forth the Priſoner named in the next Indict<g ref="char:EOLhyphen"/>ment, and when he is at the Bar, the Clerk of the Aſſizes ſaith unto him as followeth.</p>
+            <p>Thou art here indicted by the name of <hi>J. S.</hi> for that thou, <hi>&amp;c.</hi> and ſo read all the Indictment in Engliſh, and then ask him, what ſaieſt thou, art thou guilty of this murder, or what it is for where<g ref="char:EOLhyphen"/>of thou ſtands indicted, or not guilty, if he ſaith not guilty, Then the Clerk of the Aſſizes muſt ask him, how wilt thou be tryed, If he ſay by God and the Coun<g ref="char:EOLhyphen"/>try. Then muſt the Clerk of Aſſize ſay God ſend thee a good deliverance and write over his head in the Indictment <hi>Po. Se.</hi> So proceed to the next untill ſo many are arraigned as will ſerve for a petty Jury to paſſe upon.</p>
+            <p>
+               <hi>If any Priſoner <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> arraign<g ref="char:EOLhyphen"/>ment confeſs hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> must be writ<g ref="char:EOLhyphen"/>ten</hi>
+               <note place="margin">Confeſsion.</note>
+               <pb n="10" facs="tcp:115938:9"/> 
+               <hi>over his head in the Indictment, this (Cogn.) and ſo he is ſet by till the time of giving Judgment.</hi>
+            </p>
+            <p>If any Priſoner upon his Arraignment doth refuſe to be tryed by his Country, and yet plead <hi>non cul,</hi> then muſt be writ<g ref="char:EOLhyphen"/>ten over his head in the Indictment theſe words. <hi>Stat mutus,</hi> and he muſt be ſet by till Judgment giving, unleſs he plead to his Country in the interim.</p>
+            <p>When enough of Priſoners are arraign<g ref="char:EOLhyphen"/>ed to be tryed by a petty Jury then muſt the Clerk of Aſſize call to the Sheriff for a pannell of Jurors to try the Priſoners, and then know of the Judge how many he will have tryed by that Jury.</p>
+            <p>
+               <note place="margin">Calling of the Jury of life and death.</note>Then he muſt call the Jury thus, you good men that be impannelled to inquire between our Soveraign Lord the King, &amp; the Priſoners at the Bar anſwer to your names every man at the firſt call, upon pain and perill that ſhall fall thereon.</p>
+            <p>When the Jury hath appeared, then muſt the Clerk of the Aſſize call the Pri<g ref="char:EOLhyphen"/>ſoners to the Bar that ſhall be tryed by the Jury, every man by his name, and then ſay unto them,</p>
+            <p>
+               <note place="margin">Challenge allowed to the Priſo<g ref="char:EOLhyphen"/>ners.</note>Theſe good men that were laſt called, and have here appeared, are thoſe that
+<pb n="11" facs="tcp:115938:9"/> ſhall paſſe between our Soveraign Lord the King, and you upon your lives and your deaths, that therefore you or any of you will challenge them, or any of them; you may challenge them as they come to the Book to be ſworn, before they be ſworn, and you ſhall be heard.</p>
+            <p>
+               <hi>Then must the Cryer make a Pro<g ref="char:EOLhyphen"/>clamation, and ſay,</hi>
+            </p>
+            <p>If any man can inform my Lords the Kings Juſtices, the Kings Serjeant,<note place="margin">Informati<g ref="char:EOLhyphen"/>on for the King a<g ref="char:EOLhyphen"/>gainſt the Priſoners.</note> or the Kings Attorny, or this Inqueſt to be ta<g ref="char:EOLhyphen"/>ken between our Soveraign Lord the King, and the Priſoners at the Bar of any Treaſon, Murder, Felony, or other Miſdemeanor committed or done by the Priſoners at the Bar, or any of them, let them come forth and they ſhall be heard, the Priſoners ſtand at the Bar up<g ref="char:EOLhyphen"/>on their deliverance.</p>
+            <p>Then muſt the Clerk of Aſſize call the Jury to be ſworn every man ſeverally,<note place="margin">Note that every Ju<g ref="char:EOLhyphen"/>ror muſt lay his hand on the Book and look to<g ref="char:EOLhyphen"/>wards the Priſoners. Oath of the Jury of life and death.</note> and the Marſhall muſt ſwear them all ſeverally on this manner.</p>
+            <p>
+               <hi>You ſhall well and truly try, and true deliverance make between our Soveraign Lord the King, and the Priſoners at the Bar, whom you ſhall have in charge according to
+<pb n="12" facs="tcp:115938:10"/> your Evidence, ſo help you God.</hi>
+            </p>
+            <p>
+               <note place="margin">Counting of the Iury.</note>When they are all ſworn, the Clerk of Aſſize muſt cauſe the Cryer to count them as he reads their names, and that done, he muſt ask them whether they be all ſworn or not, if they ſay yea,</p>
+            <p>
+               <hi>Then they muſt divide themſelves at the Bar, ſome on one ſide, ſome on the other.</hi>
+            </p>
+            <p>Then the Clerk of the Aſſizes muſt call the Priſoner named in the firſt In<g ref="char:EOLhyphen"/>dictment upon the file, as he hath plead<g ref="char:EOLhyphen"/>ed in order to the Bar, and bid him hold up his hand, and then ſay to the Jury,</p>
+            <p>
+               <hi>Look upon the Priſoner you that be ſworn, and hearken to his cauſe.</hi>
+            </p>
+            <p>
+               <note place="margin">Charge of the Iury of life and death.</note>You ſhall underſtand that he ſtands indited by the name of, <hi>&amp;c.</hi> as in the Indictment, for that he, <hi>&amp;c.</hi> and read the Indictment as he did upon the arraign<g ref="char:EOLhyphen"/>ment, and that done, the Clerk of the Aſſizes muſt immediately ſay, upon this Indictment he hath been arraigned, up<g ref="char:EOLhyphen"/>on his arraignment, he hath pleaded not guilty, and for his tryall hath put him<g ref="char:EOLhyphen"/>ſelf upon God and the Country, which Country are you, ſo that your charge is to enquire whether he be guilty of this Felony whereof he ſtands indicted, or
+<pb n="13" facs="tcp:115938:10"/> not guilty, if you find him guilty, you ſhall enquire what Lands, Tenements, Goods, and Chattels he had at the time of the Felony committed, or at any time ſithence: if you find him not guilty, then ſhall you enquire if he did flye for it or not, if you find that he did flye for it, then you ſhall enquire what Goods or Chattels he had at the time when he did flye for it, or at any time ſithence; if you find him not guilty, nor that he flye for it, ſay ſo and no more, and hear your Evidence.</p>
+            <p>Then muſt the Clerk of Aſſize direct the Cryer to call the witneſſes as they be ſubſcribed to the Indictment.<note place="margin">Calling of witneſses.</note>
+            </p>
+            <p>
+               <hi>That done, the Judge heareth the witneſſes for the King upon oath, and for the Priſoner without oath, and ſo they proceed to the next Priſoner, as the Indictments are filed in order, with this difference onely.</hi>
+            </p>
+            <p>When the Clerk of Aſſize hath read over the Indictment as before, he onely ſaith as followeth, <hi>viz.</hi>
+            </p>
+            <p>Upon this Indictment he hath been arraigned, upon his arraignment he hath pleaded not guilty, and for his tryall he hath put himſelf upon God and his
+<pb n="14" facs="tcp:115938:11"/> Country, which Country you are, ſo that your charge is to enquire whether he be guilty of this Felony whereof he ſtands indicted, or not guilty, and fur<g ref="char:EOLhyphen"/>ther to inquire of him as you had in charge to inquire of the firſt Priſoner, and hear your Evidence.</p>
+            <p>
+               <hi>And then call the witneſſes upon that cauſe as they are ſubſcribed to the Indictment.</hi>
+            </p>
+            <p>After they are heard then if the Pri<g ref="char:EOLhyphen"/>ſoner deſires that any witneſſes be heard for him, they muſt be called alſo, but they muſt ſpeak without oath.</p>
+            <p>When that Priſoner hath done, then they proceed to the next, and ſo one af<g ref="char:EOLhyphen"/>ter another, till the Jury be fully charg<g ref="char:EOLhyphen"/>ed.</p>
+            <p>
+               <note place="margin">Reading of Proclama<g ref="char:EOLhyphen"/>tions.</note>In the mean time as the Priſoners are upon their ſeverall tryalls, the Clerk that keepeth the Goale Book, looketh out every examination of every Priſo<g ref="char:EOLhyphen"/>ner as his cauſe is in hearing, and if it be Evidence for the King, he readeth it to the Jury.</p>
+            <p>
+               <note place="margin">Bill of cauſes.</note>Alſo he maketh ready a Note of the Juries names, and ſubſcribeth the Pri<g ref="char:EOLhyphen"/>ſoners names, and their offences as they ſtand charged, withall underneath the
+<pb n="15" facs="tcp:115938:11"/> ſame, and when the Jury is ready to go from the Bar, he delivereth it unto them for their better direction and help of their memory to know who they have in charge.</p>
+            <p>When the Jury is gone from the Bar,<note place="margin">Sending for the grand Jury.</note> if there be not Indictments found e<g ref="char:EOLhyphen"/>nough to charge another Jury, the Court doth ſend to the grand Jury to bring in ſome more Bills if they are ready, and in the mean time, or ſome o<g ref="char:EOLhyphen"/>ther time when the Court is at leiſure.</p>
+            <p>
+               <hi>The Clerk of the Goal Book cal<g ref="char:EOLhyphen"/>leth the chief Constables to deli<g ref="char:EOLunhyphen"/>ver in their Preſentments.</hi>
+               <note place="margin">Taking the Conſtables Preſent<g ref="char:EOLhyphen"/>ments.</note>
+            </p>
+            <p>Which done, the Court taketh the ap<g ref="char:EOLhyphen"/>pearance of the grand Jury as aforeſaid, and proceedeth to the arraignment of Priſoners and tryalls of them, as before is expreſſed untill all be done.</p>
+            <p>When the Jury of life and death are agreed,<note place="margin">Taking of the Verdict of the Jury of life and death.</note> and come to the Court to give their Verdict. The Clerk of Aſſize muſt firſt call them by name, and ask them if they be agreed of their Verdict, and who ſhall ſay for them, and call the firſt Priſoner to the Bar, and bid him hold up his hand.</p>
+            <pb n="16" facs="tcp:115938:12"/>
+            <p>
+               <hi>Then ſay to the Jury, look upon the Priſoner you that be ſworn, what ſay you, is he guilty of the Fe<g ref="char:EOLhyphen"/>lony whereof he ſtands indicted, or not guilty,</hi>
+            </p>
+            <p>
+               <hi>If they ſay guilty.</hi>
+            </p>
+            <p>Then ask what Lands, or Tenements, Goods, or Chattels had he at the time of the Felony committed, or at any time ſithence.</p>
+            <p>
+               <hi>If they find any, they muſt be Re<g ref="char:EOLhyphen"/>corded: but their common anſwer is, none to our knowledge.</hi>
+            </p>
+            <p>
+               <hi>If the Jury ſay, not guilty.</hi>
+            </p>
+            <p>Then ask if he did flye for it or not, if they find a flight, it muſt be Recorded, but their common anſwer is, not to our knowledge.</p>
+            <p>And ſo muſt the Clerk of Aſſize pro<g ref="char:EOLhyphen"/>ceed to every Priſoner particularly, which the Jury hath in charge, writing after the words <hi>(Po. ſe.)</hi> over the ſeverall names of the Priſoners, <hi>Cul.</hi> or <hi>non cul.</hi> as the Verdict is, and then he muſt ſay to the Jury, hearken to your Verdict as the Court recordeth it, and then he re<g ref="char:EOLhyphen"/>peateth it in this manner.</p>
+            <p>
+               <hi>You ſay A.B. is guilty of the Fe<g ref="char:EOLhyphen"/>lony whereof he ſtands indicted.</hi>
+            </p>
+            <pb n="17" facs="tcp:115938:12"/>
+            <p>
+               <hi>That C. D. is not guilty, and ſo of the reſt.</hi>
+            </p>
+            <p>And then concludeth, and ſo you ſay all,</p>
+            <p>
+               <hi>And bid them put in their Bill of cauſes.</hi>
+            </p>
+            <p>
+               <hi>Memorand.</hi>
+               <note place="margin">Tryall of Riotors and Treſpaſsers.</note> that all Indictments upon Riots, Treſpaſſes, and other miſdemea<g ref="char:EOLhyphen"/>nors under the degree of Felony, the parties whereunto are either in Priſon, or bound to appear by Recognizance; upon their appearance, they muſt be tryed after the Felons.</p>
+            <p>
+               <hi>And thoſe that are found guilty, the Judge impoſeth a Fine upon them, and other puniſhment as he findeth the nature of the offence.</hi>
+            </p>
+            <p>After all the Indictments preferred to the grand Jury be returned into the Court, or before if leiſure permit,<note place="margin">Delivering of Priſo<g ref="char:EOLhyphen"/>ners by Pro<g ref="char:EOLhyphen"/>clamation.</note> the Clerk of the Goal calleth over all his bailes that are not formerly called upon their arraignments, there being no Bills preferred againſt them, and upon their appearance, he acquainteth the Judge with who committed them, and the rea<g ref="char:EOLhyphen"/>ſon thereof, as it is expreſſed in the Re<g ref="char:EOLhyphen"/>cognizance, and how no man cometh a<g ref="char:EOLhyphen"/>gainſt them, and likewiſe he peruſeth the Goale Priſoners, and Baile Priſoners,
+<pb n="18" facs="tcp:115938:13"/> againſt whom the Bills of Indictment are returned <hi>ignoramus,</hi> and againſt whom there are no Indictments preferred, and informeth the Judge of their caſes, and if no man cometh againſt them during the Aſſizes, they are delivered by Pro<g ref="char:EOLhyphen"/>clamation, as followeth.</p>
+            <p>
+               <note place="margin">Proclama<g ref="char:EOLhyphen"/>tion.</note>If any man can inform my Lords the Kings Juſtices, the Kings Serjeant, or the Kings Attorny, of any Treaſon, Mur<g ref="char:EOLhyphen"/>der, Felony, or any other miſdemeanor committed or done by <hi>A. B. &amp;c.</hi> and name them all, or any of them now Pri<g ref="char:EOLhyphen"/>ſoners at the Bar, let him come forth, and he ſhall be heard, the Priſoners ſtand upon their deliverance.</p>
+            <p>
+               <note place="margin">Forme of keeping the Goale Book.</note>Note that the Clerk that keepeth the Goal Book in the beginning of the Aſ<g ref="char:EOLhyphen"/>ſizes ſetteth down in the Book firſt a note of the day when the Aſſizes is hol<g ref="char:EOLhyphen"/>den, and the Judges name and Sheriffs name in a ſhort compendious manner uſed for that purpoſe, <hi>ut patet in libro.</hi>
+            </p>
+            <p>Next unto that he ſetteth down the Priſoners names as they are returned by the Sheriff in the Calender, beginning with the reprives formerly left in the Goale, and then the reſt in order, lea<g ref="char:EOLhyphen"/>ving a reaſonable diſtance betwixt every
+<pb n="19" facs="tcp:115938:13"/> name, and ſo alſo of all bailes, for which he hath Recognizance returned in by the Juſtices.</p>
+            <p>And when any Indictment is found a<g ref="char:EOLhyphen"/>gainſt any Priſoner, and he arraigned thereupon: he ſetteth down briefly his offence, at the end of his name, as (for a Mare) or the like, and if the Priſoner put himſelf upon the Country, then be writeth over his name <hi>(Po. Se.)</hi> And if he will not be tryed by the Country, then he writeth over his name <hi>Stat. mu<g ref="char:EOLhyphen"/>tus,</hi> and if the Priſoner continue obſti<g ref="char:EOLhyphen"/>nate, and will not be tryed, then he ad<g ref="char:EOLhyphen"/>peth thereto <hi>(Pen. fort &amp; Dur.)</hi> And if if the Priſoner confeſſe the fact upon his arraignment, then he writeth over his name <hi>(Cogn.)</hi> And when a Priſoner is tryed and found guilty, and had no goods, he addeth unto the former words, <hi>Po. ſe. cul. ca. nul.</hi> And if the priſoner be found not guilty, nor that he did flie, then he addeth to the former words, <hi>Po ſe. non cul. nec r.</hi> And if the Priſoner be found guilty of pettie Larceny, then he writeth to the former words <hi>(Po. ſe. cul. de parva felon va. xd. flag.)</hi> And if the Priſoner be found guilty of a Felo<g ref="char:EOLhyphen"/>ny, wherein he may have benefit of Cler<g ref="char:EOLhyphen"/>gy,
+<pb n="20" facs="tcp:115938:14"/> and the Priſoner demand the ſame and can read, then he addeth to the for<g ref="char:EOLhyphen"/>mer words <hi>Po. ſe. cul. ca. nul. pe. li. le. cre.</hi> And if the Priſoner cannot read when his Book is allowed him, then he addeth to the words, <hi>Pe. li. ſed not legit Jo. ſus.</hi> but if the offence whereof the Priſoner is found guilty, be ſuch as the benefit of Clergy cannot be allowed by Law, then he writeth unto the former words, <hi>Po. ſe. cul. ca. nul. Ss.</hi> And a<g ref="char:EOLhyphen"/>gainſt ſuch Priſoners as <hi>ignoramus</hi> is found upon the Bill preferred againſt them, he writeth in the Margent behind their names ſeverally <hi>(Ign.)</hi> And the offence ſeverally before their names (as for a Gelding) and the like, and over his head <hi>(Del.)</hi> and over the names of ſuch Priſoners as there are nothing a<g ref="char:EOLhyphen"/>gainſt, he writeth <hi>(Del.)</hi> and over ſuch names as do not appear upon their Re<g ref="char:EOLhyphen"/>cognizance, being called, he writeth <hi>(defalt.)</hi> And after ſuch names as are to be ſent to the houſe of Correction, he writeth (to be ſent to the Houſe of Correction) or <hi>r. Dom. Correctionis,</hi> for the better explanation hereof, I have written this ſmall form underneath, if the Priſoner be twice indicted, then the
+<pb n="21" facs="tcp:115938:14"/> two offences after the name, and the fi<g ref="char:EOLhyphen"/>gure of 2 behind it.</p>
+            <p>
+               <hi>Po. ſe. cul. ca. nul. Ss.</hi>
+               <note place="margin">
+                  <hi>2</hi> Ss. md.</note>
+            </p>
+            <p>
+               <hi>Johes Doo</hi> for a Mare, for Lynnens.</p>
+            <p>
+               <hi>Po. ſe. cul. ca. nul. pe. li. le. cre.</hi>
+               <note place="margin">Md.</note>
+            </p>
+            <p>
+               <hi>Ricus Roo</hi> for Heifers and Sheep.</p>
+            <p>
+               <hi>Po. ſe. cul. ca. nul. flag.</hi>
+            </p>
+            <p>
+               <hi>Thomas Denn</hi> for Lynnens the value of ten pence.</p>
+            <p>
+               <hi>Po. ſe. non. cul. nec. r.</hi>
+            </p>
+            <p>
+               <hi>Willus Fenn</hi> for ſix Oxen,<note place="margin">3 <hi>Md.</hi>
+               </note> two Wea<g ref="char:EOLhyphen"/>thers, for a Hog.<note place="margin">Ign.</note>
+            </p>
+            <p>
+               <hi>Adamus del Pye</hi> for Burglary.</p>
+            <p>Note that where he beginneth to enter his Bailes, he writeth <hi>(B)</hi> in the Margent.</p>
+            <p>
+               <hi>defalt</hi>
+            </p>
+            <p>
+               <hi>Franſciſcus Mye.</hi>
+               <note place="margin">B.</note>
+            </p>
+            <p>
+               <hi>Stat. mut. pen. fort. &amp; dur.</hi>
+            </p>
+            <p>
+               <hi>Joes Trimtram</hi> for murder.</p>
+            <p>
+               <hi>Po. ſe. cul. ca. nul. pe. li. ſed non le<g ref="char:EOLhyphen"/>git. Jo. Sus.</hi>
+               <note place="margin">Md.</note>
+            </p>
+            <p>
+               <hi>Nichus Skillington</hi> for eight Ewes.<note place="margin">Sus. md.</note>
+            </p>
+            <p>Some other formes there be, which as they ariſe are ſet down after the natures of the offences: The Goal Book is full of examples, and therfore I omit them here.</p>
+            <p>Alſo all orders made by the Court for continuance of any man in Priſon, or ſending any to the houſe of Correction,
+<pb n="22" facs="tcp:115938:15"/> all Fines ſet upon any Priſoner for Treſ<g ref="char:EOLhyphen"/>paſſe, all Defaults upon Recognizance to anſwer, all orders for Attachments, and other Warrants, and all ſubmiſſions of Recuſants are uſually recorded in the Goale Book, and alſo Writs of good be<g ref="char:EOLhyphen"/>haviour.</p>
+            <p>
+               <note place="margin">Callender.</note>Note alſo, that he that keepeth the Goal Book, having made perfect his Callender, as the Verdicts are given, he doth draw out into a ſheet of Paper in the firſt place the names of ſuch as are to ſuffer death under one title, the names of ſuch as are to have benefit of Clergy under another title, ſuch as are guilty of pettie Larcenie under another title ſuch as are found not guilty under another title, and ſuch as are to be delivered by Proclamation, againſt whom there is nothing in Court under the laſt title.</p>
+            <p>And under the firſt title ſuch as ſtand mute, if any be, by themſelves, and in an<g ref="char:EOLhyphen"/>other place, ſuch as are to be ſent to the houſe of Correction.</p>
+            <p>
+               <hi>That Callender being made per<g ref="char:EOLhyphen"/>fect and delivered to the Judge, and he ready to give Judgment, the Clerk of Aſſize cauſeth the Goaler to ſet all the Priſoners found guilty above
+<pb n="23" facs="tcp:115938:15"/> pettie Larceny, to the Bar, and ſaith unto them thus,</hi>
+            </p>
+            <p>You do remember that before this time you have been ſeverally indicted for ſeverall Felonies,<note place="margin">The form of calling the Priſo<g ref="char:EOLhyphen"/>ners to judgment.</note> and ſome of you for Murder by you done and committed; upon your Indictments, you have been arraigned, and have ſeverally pleaded not guilty; and for your tryalls you have ſeverally put your ſelves upon God and the Country, which Country hath found you guilty, what can you now ſay for your ſelves, why according to Law you ſhould not have Judgment to ſuffer death, and then ask them by name ſeve<g ref="char:EOLhyphen"/>rally.</p>
+            <p>
+               <hi>What ſaieſt thou A. B. &amp;c.</hi>
+            </p>
+            <p>Then if he claim his Clergy,<note place="margin">Clergy.</note> and may have it by Law, the Ordinary muſt be called to ſhew him the Book, and when he hath ſhewed it to him, the Clerk of Aſſize muſt ſay, <hi>legit ut clericus vel non.</hi>
+            </p>
+            <p>If the Ordinary ſay <hi>legit,</hi> then muſt the Priſoner be burned in the hand: but if the Ordinary ſaith <hi>non legit,</hi> the Priſo<g ref="char:EOLhyphen"/>ner muſt be executed.</p>
+            <p>When all have had benefit of Clergy, which may have it by Law; then doth
+<pb n="24" facs="tcp:115938:16"/> the Judge (after an exhortation made to the Priſoners that are to ſuffer death) give Judgment, and ſuch Priſoners againſt whom no man proſecuteth, and againſt whom <hi>ignoramus</hi> is found, being pro<g ref="char:EOLhyphen"/>claimed as aforeſaid, the Goaler is com<g ref="char:EOLhyphen"/>manded to take away his Goal.</p>
+            <p>Then doth the Court ſend for the Grand Jury; but you muſt note by the way that whileſt the Court is in try<g ref="char:EOLhyphen"/>ing the Priſoners as aforeſaid, ſome one of the Clerks doth take a note of all the Recuſants preſented by Conſtables out of their preſentements, And doth make them into a bill of In<g ref="char:EOLhyphen"/>dictment in forme of Law; and doth ſend both it and the preſentments to the Grand Jury, and now, if not afore at their coming in they deliver the ſame bill together with their preſentments of other greivances, and having ſo done they are uſually diſcharged, except ex<g ref="char:EOLhyphen"/>traordinarie buſines alter it.</p>
+            <p>
+               <note place="margin">Proclaim<g ref="char:EOLhyphen"/>ing of Re<g ref="char:EOLhyphen"/>cuſants.</note>If the Indictment againſt the Recu<g ref="char:EOLhyphen"/>ſants be found, then doth the Clerk of Aſſize cauſe the Crier to make a procla<g ref="char:EOLhyphen"/>mation, and then Reading the names and the Crier repeating them with their ad<g ref="char:EOLhyphen"/>ditions as they are in the indictment, he
+<pb n="25" facs="tcp:115938:16"/> concludes after the laſt name thus, Being indicted at theſe Aſſizes for not com<g ref="char:EOLhyphen"/>ing to the Church by the ſpace of one moneth (or more as it is laid in the In<g ref="char:EOLhyphen"/>dictment) yeild your bodies to the She<g ref="char:EOLhyphen"/>riff of this County, ſo that he may have the ſame before the Kings Majeſties Ju<g ref="char:EOLhyphen"/>ſtices at the next Aſſizes, and generall Goal-delivery to be holden for this County, or elſe you, and every of you ſhall be convicted of Recuſancy, accord<g ref="char:EOLhyphen"/>ing to the forme of the Statute in that caſe made and provided.</p>
+            <p>This being done, the Judge having heard ſome Greivances as are complain<g ref="char:EOLhyphen"/>ed of unto him concerning miſdemea<g ref="char:EOLhyphen"/>nors, and the like.</p>
+            <p>
+               <hi>The Cryer maketh three Procla<g ref="char:EOLhyphen"/>mations to adjurne the Aſſizes.</hi>
+            </p>
+            <p>And then ſaith,<note place="margin">Adjurning of the Aſ<g ref="char:EOLhyphen"/>ſizes.</note> All manner of Per<g ref="char:EOLhyphen"/>ſons that have here appeared before my Lords the Kings Juſtices, at theſe Aſ<g ref="char:EOLhyphen"/>ſizes and generall Goal-delivery may now depart in Gods peace, and the Kings, and keep your day here upon a new Summons, and God ſave the King, and ſo the Court riſeth.</p>
+            <p>
+               <hi>And note that if the</hi> Niſi prius <hi>are not ended, they are adjurned over
+<pb n="26" facs="tcp:115938:17"/> to that Court, and when they have done they make this generall adjurn<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>Note alſo that at every riſing of the Court it is adjorned over by Proclama<g ref="char:EOLhyphen"/>tion to ſuch an houre in the afternoon, or in the morning untill the Aſſizes be ended.</p>
+            <p>Note that where it is ſaid, the Cryer muſt ſay ſuch and ſuch words, if he be not expert himſelf, the Clerk of Aſſize muſt direct him.</p>
+            <p>Note alſo that all ſuch perſons againſt whom the Sheriff returneth <hi>Cepi Corpus</hi> upon any Writ of Aſſizes delivered unto him, ought to be called in Court in con<g ref="char:EOLhyphen"/>venient time, if they appear not other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p>Note alſo, that where it is ſaid the Clerk of Aſſize muſt do ſuch and ſuch things, they are uſually done by the Aſ<g ref="char:EOLhyphen"/>ſociate for that ſide.</p>
+            <p>Note alſo, that in calling the Juſti<g ref="char:EOLhyphen"/>ces of Peace, Coroners, Stewards of Li<g ref="char:EOLhyphen"/>berties, chief Conſtables, and Bayliffs of Hundreds, and grand Juries, and other Juries, their appearances are marked with (■) and their defaults left blanck in the Margent, except the Judge ſet a
+<pb n="27" facs="tcp:115938:17"/> Fine upon any of them for not appear<g ref="char:EOLhyphen"/>ing, then that is ſet down in the Mar<g ref="char:EOLhyphen"/>gent.</p>
+            <p>Note that ſuch Clerks as make In<g ref="char:EOLhyphen"/>dictments are in Action as long as occa<g ref="char:EOLhyphen"/>ſion requireth about them, and Writs of Reſtitution, or to remove Priſoners, <hi>&amp;c.</hi> but their imployment is of that nature, that it cannot be here expreſſed.</p>
+            <p>Your Clerks imployment concerning making <hi>Subpoena's,</hi> and taking appear<g ref="char:EOLhyphen"/>ances upon Preſentments. I ſuppoſe you ſufficiently know, and ſo have I done on the Goale ſide: there are other ob<g ref="char:EOLhyphen"/>ſervations which practiſe muſt make ma<g ref="char:EOLhyphen"/>nifeſt.</p>
+            <div type="part">
+               <head>The Proceedings on the <hi>Niſi Prius.</hi>
+               </head>
+               <p>WHen the Court is ſet and Records and Writs put into the Court fit for tryall: the Cryer muſt make a Pro<g ref="char:EOLhyphen"/>clamation, and the Clerk muſt direct him to ſay,</p>
+               <p>You good men of the <hi>Niſi prius</hi> ſum<g ref="char:EOLhyphen"/>moned to appear here this day,<note place="margin">Calling the Jury.</note> betwixt <hi>A B.</hi> Plaintiff, and <hi>C. D.</hi> Defendant, anſwer to your names, every man at
+<pb n="28" facs="tcp:115938:18"/> the firſt call, and ſave your Iſſues.</p>
+               <p>Then muſt they be called by name with this concluſion, thou looſeſt a mark in iſſues to every one of them. And if a full Jury do not appear, then call the defaults without addition, and then if twelve do not appear, ſay <hi>Vous avis nul inqueſt.</hi>
+               </p>
+               <p>
+                  <note place="margin">Calling the Defendant.</note>Then call the Defendant <hi>C. D.</hi> come forth or this Inqueſt ſhall be taken in thy default, this muſt be done thrice, if the Defendant appear not, then muſt the Clerk write on the back of the Pannell, <hi>per defalt.</hi>
+               </p>
+               <p>
+                  <note place="margin">Challenge.</note>Then the Clerk muſt ſay, <hi>Plaintiffs garde vre. Challenge,</hi> and ſo call the Ju<g ref="char:EOLhyphen"/>ry to the Book to be ſworn; and as they come to the Book the Marſhall muſt ſwear them, unleſſe the Plaintiff chal<g ref="char:EOLhyphen"/>lenge any of them, which if he doth, they muſt ſtand by till the reſt be ſworn to e<g ref="char:EOLhyphen"/>leven more in ranck as they appear, and then the Clerk muſt ask the Plaintiff why he challengeth ſuch a man.</p>
+               <p>Then the Plaintiff ſhewing his cauſe, if it be ſufficient, the verity ſhall be tryed by two other ſworn upon the ſame Jury, if they find the cauſe true, then he ſhall be ſpared, otherwiſe he ſhall be ſworn.</p>
+               <p>If he be ſpared, and there do not ap<g ref="char:EOLhyphen"/>pear
+<pb n="29" facs="tcp:115938:18"/> enough on the principall Pannell to make a full Jury, then the Plaintiff muſt pray <hi>in tales de Circumſtantibus.</hi>
+               </p>
+               <p>
+                  <hi>Which being granted by the Judge.</hi>
+                  <note place="margin">Tales.</note>
+               </p>
+               <p>The Sheriff muſt return ſome names for that purpoſe, ſuch as are then within view of the Court.</p>
+               <p>
+                  <hi>And then the Clerk muſt direct the Cryer to call them on this man<g ref="char:EOLhyphen"/>ner.</hi>
+               </p>
+               <p>You good men of the <hi>Tales</hi> newly re<g ref="char:EOLhyphen"/>turned according to the form of the Statute, anſwer to your names every man at the firſt call, and ſave your Iſſues, or upon pain and peril, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Then they appearing muſt be ſworn with the other Jurors.</hi>
+               </p>
+               <p>You ſhall well and truly try the Iſſue of this <hi>Niſi prius,</hi> between the parties,<note place="margin">Their oath.</note> according to your Evidence, ſo help you God.</p>
+               <p>And when they are ſworn they muſt be counted, and asked if they be all ſworn, and bid ſtand together and hear your charge.</p>
+               <p>Then muſt the Aſſociate for that ſide read the Record,<note place="margin">Charge of the Jury on the <hi>Niſi prius.</hi>
+                  </note> and charge the Jury as the Record is, what they are to inquire,
+<pb n="30" facs="tcp:115938:19"/> the certainty cannot be here expreſ<g ref="char:EOLhyphen"/>ſed.</p>
+               <p>Then do the Councell on both ſides open the Cauſe one after another, the Plaintiffs Councell firſt, if the proofe lye on his ſide, otherwiſe the Defendants, and produce ſuch witneſſes as do prove ſuch matters as they alleadge, <hi>&amp;c.</hi>
+               </p>
+               <p>In the interim doth the Clerk file the Writ, Pannell, and Record together.</p>
+               <p>
+                  <note place="margin">Copy of the Iſsue.</note>And maketh a Copy of the Juries names, and the Iſſue they are to try, and when the Councell have done, he deli<g ref="char:EOLhyphen"/>vereth it to the Jury; and a Bayliff be<g ref="char:EOLhyphen"/>ing ſworn to keep them till they be a<g ref="char:EOLhyphen"/>greed, without meat, drink <hi>&amp;c.</hi> they de<g ref="char:EOLhyphen"/>part from the Bar, and when they are a<g ref="char:EOLhyphen"/>greed, they return to give their Ver<g ref="char:EOLhyphen"/>dict.</p>
+               <p>
+                  <note place="margin">Taking the Verdict.</note>Then doth the Clerk call them by their names, and ask them if they be a<g ref="char:EOLhyphen"/>greed of their Verdict, and who ſhall ſay for them.</p>
+               <p>Then muſt the party be called thrice.</p>
+               <p>
+                  <hi>A. B. come forth, or elſe thou looſest thy Writ of</hi> Niſi prius.</p>
+               <p>If he appear not, then the Defendant muſt pay the Jury, and the fees of the Court, and have the nonſuit recorded.</p>
+               <pb n="31" facs="tcp:115938:19"/>
+               <p>
+                  <hi>But if the Plaintiff appear, then the Clerk asketh the Jury.</hi>
+               </p>
+               <p>
+                  <hi>What ſay you, do you find for the Plaintiff, or for the Defendant, and what coſts and damages accord<g ref="char:EOLhyphen"/>ing as the cauſe is, and ſo be entreth it on the back of the Pannell, and re<g ref="char:EOLhyphen"/>peats it to the Jury.</hi>
+               </p>
+               <p>Note that in all cauſes that come by <hi>Niſi prius,</hi> betwixt party and party, if the Jury appear not full, the Proſecutor of the Record may have a <hi>Tales</hi> if he pray it.</p>
+               <p>Note alſo, that if the Defendant ap<g ref="char:EOLhyphen"/>pear not when he is called, he looſeth the benefit of his challenge to the Ju<g ref="char:EOLhyphen"/>rors, but if he appear he may challenge them.</p>
+               <p>
+                  <hi>And many other things may hap<g ref="char:EOLhyphen"/>pen in execution of this buſineſſe which time and obſervation will make perfect.</hi>
+               </p>
+               <p>
+                  <hi>In the mean time you muſt take theſe as the Heads.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="32" facs="tcp:115938:20"/>
+               <head>The Terme buſineſs.</head>
+               <p>
+                  <note place="margin">Returning of Poſtea's.</note>FIrſt the returning of all the Poſtea's which muſt be done on the backſide of the Records, tryed at the Aſſizes, which muſt be done as they are called for by the Attornies, for ſuch as are agreed will not he called for at all.</p>
+               <p>
+                  <note place="margin">Out of Pro<g ref="char:EOLhyphen"/>ces.</note>The putting of all ſuch perſons out of Proces as have appeared at the Aſ<g ref="char:EOLhyphen"/>ſizes, and are diſcharged, and entring of them in a Book for that purpoſe.<note place="margin">Into Pro<g ref="char:EOLhyphen"/>ces.</note>
+               </p>
+               <p>The putting of all ſuch perſons into Proces as are newly preſented by the grand Juries, and chief Conſtables, at the laſt Aſſizes, and entring them into the Book of Proces.</p>
+               <p>
+                  <note place="margin">Making of Proces.</note>The writing over the Proces again for every Shire, and delivering of them to the ſeverall Sheriffs to be executed.</p>
+               <p>
+                  <note place="margin">Certifying of Convicts and Inqui<g ref="char:EOLhyphen"/>ſitions.</note>The certifying of the Convictions of all ſuch as were burned in the hands throughout the whole Circuit, and alſo all Inquiſitions of <hi>Fe lo de ſe, per infor<g ref="char:EOLhyphen"/>tunium &amp; ex viſitatione Dei,</hi> returned by the Coroners this laſt Circuit into the Crown Office.</p>
+               <pb n="33" facs="tcp:115938:20"/>
+               <p>The drawing up,<note place="margin">Speciall Verdicts.</note> and entring of all ſpeciall Verdicts of the laſt Circuit, and others behind, if any be.</p>
+               <p>The certifying of the conviction of all the Recuſants convicted at theſe Aſſizes into the Exchequer in <hi>Eaſter</hi> Tearm.<note place="margin">Convicti<g ref="char:EOLhyphen"/>ons of Re<g ref="char:EOLhyphen"/>cuſants.</note>
+               </p>
+               <p>The making of a little ſhort Certifi<g ref="char:EOLhyphen"/>cate to the Lord Keeper,<note place="margin">Making Certificates.</note> of all the noto<g ref="char:EOLhyphen"/>rious facts in the Circuit when the Judges ſhall call for it according to the truth of the proceedings.</p>
+               <p>The making of the great Eſtreate in <hi>Michaelmas</hi> Tearm,<note place="margin">Generall Eſtreate.</note> of all forfeitures of Juſtices of Peace, Coroners, Stewards of Liberties, cheif Conſtables, Bayliffs of Hundreds, and grand Juries for their not appearance for the whole year, and of all convicted Recuſants at <hi>Summer</hi> Aſſizes, the Amerciaments upon all perſons for Nuſances and Treſpaſſes, and the Iſſues returned by the Sheriff upon the Proces of the Aſſizes for the whole preceding year, whereupon no appearance hath been made; and the returning of the ſame into the Exche<g ref="char:EOLhyphen"/>quer. The forms and Copies of which Eſtreats from time to time returned, are extant among other Records of the Of<g ref="char:EOLhyphen"/>fice.</p>
+               <pb n="34" facs="tcp:115938:21"/>
+               <p>
+                  <note place="margin">Traverſes.</note>The drawing up of Traverſes in form of pleading for all ſuch as have taken order for the ſame at the Aſſizes, or ſhall take order in Terme time, to a<g ref="char:EOLhyphen"/>ny Indictments of Treſpaſſe, Riots, Converſion, Depopulation, decay of High-wayes and Bridges, or the like, and the entring of them upon the Tra<g ref="char:EOLhyphen"/>verſe Roll, and making out of <hi>Venire facias</hi> upon the ſame Traverſes.</p>
+               <p>
+                  <note place="margin">Proces a<g ref="char:EOLhyphen"/>gainſt Fe<g ref="char:EOLhyphen"/>lons.</note>The putting of all ſuch as are indicted of Felony, and are at large into Pro<g ref="char:EOLhyphen"/>ces.</p>
+               <p>
+                  <note place="margin">Againſt in<g ref="char:EOLhyphen"/>dicted Treſ<g ref="char:EOLunhyphen"/>paſſors.</note>The putting of all ſuch as are indicted for Riots, and other Treſpaſſes into Proces.</p>
+               <p>
+                  <hi>Note that the firſt Proces in Fe<g ref="char:EOLhyphen"/>lony is a</hi> Capias <hi>returnable the next Aſſizes, and after that an</hi> Exigent.</p>
+               <p>
+                  <note place="margin">Proces in Felony and Treſpaſse.</note>Note alſo, that the firſt Proces in Treſpaſſe is a <hi>Venire facias</hi> returnable at the next Aſſizes, and after that, a <hi>Capi<g ref="char:EOLhyphen"/>as</hi> or <hi>Diſtringas,</hi> as the Sheriff ſhall re<g ref="char:EOLhyphen"/>turn the party ſufficient or inſufficient.</p>
+               <p>
+                  <hi>And if a</hi> Capias, <hi>then</hi> ca. alia plura, <hi>and</hi> exigent, <hi>one going forth when the other is returned, unleſſe the party appear.</hi>
+               </p>
+               <p>And if a <hi>Diſtringas,</hi> then a Diſtreſſe
+<pb n="25" facs="tcp:115938:21"/> infinite untill the party appeare.</p>
+               <p>
+                  <hi>The forme of all which Proces are extant in the Office.</hi>
+               </p>
+               <p>Some other occaſions, as returning of <hi>Cerciorari's</hi> into the Crown Office to remove Indictments, happen now and then, which a skilfull Clerk will eaſily performe.</p>
+               <p>Note in tryalls of Priſoners if any wo<g ref="char:EOLhyphen"/>man be convicted of Felony,<note place="margin">Woman Fe<g ref="char:EOLhyphen"/>lons being with child.</note> ſhe ſhall be asked what ſhe can ſay for her ſelf, why ſhe ſhould not ſuffer death according to the Law.</p>
+               <p>
+                  <hi>If ſhe ſay ſhe is with Child,</hi>
+               </p>
+               <p>
+                  <hi>Then must the Sheriff return a Jury of women, who muſt be ſworn, and charged to try whether the Pri<g ref="char:EOLhyphen"/>ſoner be quick with child or not, and then they take the Priſoner and go together, and when they return, to give their Verdict, if they ſay ſhe is quick with child, the execution of that Priſoner is reſpited til ſhe be de<g ref="char:EOLhyphen"/>livered, but if the Jury ſay ſhe is not with quick child, then ſhe ſhall be executed.</hi>
+               </p>
+               <p>
+                  <hi>The forme of the Oath.</hi>
+               </p>
+               <p>You as fore-matron of this Jury, ſhall ſwear that you ſhall ſearch and try the
+<pb n="36" facs="tcp:115938:22"/> Priſoner at the Bar, whether ſhe be with quick child, and thereof a true Verdict ſhall return, ſo God help you.</p>
+               <p>The ſame oath your fore-matron hath taken, on her part you ſhall alſo take and obſerve, ſo God help you.</p>
+               <p>The Verdict.</p>
+               <p>
+                  <note place="margin">In Dower.</note>
+                  <hi>Inquiratur ſi vir obierit ſezitus de tene<g ref="char:EOLhyphen"/>mentis praedictis in dominico ſuo ut de feo<g ref="char:EOLhyphen"/>do, aut de feodo talliato. Et ſi ita inveni<g ref="char:EOLhyphen"/>rint tunc quantum tenementa illa valent per annum in omnibus exitibus ultra re<g ref="char:EOLhyphen"/>priſces juxta vera valore eorundem &amp; quantum tempus dilabitur a tempore mortis praedicti viri. Et quae Dampna, petens ſuſtinet tam occaſione detentionis datae quam premiſis.</hi>
+               </p>
+               <p>
+                  <note place="margin">Quare im<g ref="char:EOLhyphen"/>pedit.</note>Enquire if the Church be full or not, if it be full, at whoſe preſentation; and if ſix months be paſt ſince the laſt avoi<g ref="char:EOLhyphen"/>dance, and of what value it is by the year, and Coſts and Damages.</p>
+               <p>
+                  <note place="margin">En Dower nota.</note>The Jury finding the dying Seiſed, they muſt aſſeſſe Coſts and Damages, but if they find the Husband was Seiſed, but did not dye ſo, then no Coſts nor dama<g ref="char:EOLhyphen"/>ges, but only the value of the Land.</p>
+               <p>In Detinue. <hi>Si pro quer. de valore rei detent. &amp; cuſtag. &amp; dampna.</hi>
+               </p>
+               <pb n="37" facs="tcp:115938:22"/>
+               <p>In Debt. <hi>Custag. &amp; dampna.</hi>
+               </p>
+               <p>Tranſgr. <hi>Conſimile.</hi>
+               </p>
+               <p>
+                  <hi>Ejectione firmae. Conſimile.</hi>
+               </p>
+               <p>Nuſance. <hi>Conſimile.</hi>
+               </p>
+               <p>In Replevin. Damages for both par<g ref="char:EOLhyphen"/>ties, and coſts.</p>
+               <p>In Account. No damages no coſts.</p>
+               <p>In Waſt. Only treble damages.</p>
+               <p>
+                  <hi>In Placito terrae. Nulla dampna nec cuſtagia.</hi>
+               </p>
+               <p>
+                  <hi>Warrantia Carta. Conſimile.</hi>
+               </p>
+               <p>
+                  <hi>Conventione. Dampna &amp; custagia per queren.</hi>
+               </p>
+               <p>Aſſize. <hi>Conſimile.</hi>
+               </p>
+               <p>Prohibition. <hi>Si pro quer. tum enquir. de exitibus &amp; non plus.</hi>
+               </p>
+               <p>
+                  <hi>Partitione facienda. Si pro quer. tunc de exit. &amp; non plus.</hi>
+               </p>
+               <p>
+                  <hi>En brevie de Entry in le per. Cuſtag. &amp; dampna.</hi>
+               </p>
+               <p>
+                  <hi>En Action de debet ſur Statut. E</hi> 6. <hi>qua extra ponent decimas.</hi> The treble value only, and neither coſts nor da<g ref="char:EOLhyphen"/>mages.</p>
+               <p>In all reall Actions, generally no more then the Iſſue.</p>
+            </div>
+            <pb facs="tcp:115938:23"/>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:115938:23"/>
+            <p>PRINCIPIA SIVE MAXIMA LEGUM ANGLIA A GALLICO SERMONE COLLECTA.</p>
+         </div>
+         <div type="legal_document">
+            <pb facs="tcp:115938:24"/>
+            <pb n="41" facs="tcp:115938:24"/>
+            <head>Principia ſive maxima legum Angliae a Gallico ſermone collecta.</head>
+            <p>FIlius ſenior patri ſuccedet in here<g ref="char:EOLhyphen"/>ditate pre juniori. Si non ſunt fi<g ref="char:EOLhyphen"/>lii ſed filie tunc omnes filie ſimul ſuc<g ref="char:EOLhyphen"/>cedent patri ut una heres: &amp; ſi nec ſunt filii nec filie tunc ſecundum leges Anglie fratri vel ſorori: &amp; ſi non ſit fra<g ref="char:EOLhyphen"/>ter nec ſoror, tunc alteri conſanguineo vel conſanguinie proximiori dequocum<g ref="char:EOLhyphen"/>que longo gradu ſit ab illo qui ultimo poſſeſſus fuit deſcendet hereditas: &amp; ſi non ſit aliquis heres generalis nec ſpecialis, tunc ad dominum feodi ut eſ<g ref="char:EOLhyphen"/>caeta ſua hereditas illa revertetur.</p>
+            <p>Per antiquam regni conſuetudinem terra a filio ad patrem vel ad matrem nec ad alium anteceſſorem in recto lineo exiſtendum nunquam deſcendet ſive aſcendet ſed potius ad dominum feodi revertetur.</p>
+            <pb n="42" facs="tcp:115938:25"/>
+            <p>Si frater medius terras perquirit in feodo &amp; obiit ſine herede de corpore ſuo procreato, tunc fratri ſeniori ex antiqua conſuetudine regni deſcendet hereditas &amp; non juntori. Si terra deſcendet a<g ref="char:EOLhyphen"/>licui ex parte patris &amp; ille obiit ſine he<g ref="char:EOLhyphen"/>rede de corpore ſuo, tunc hereditas illa deſcendet proximis heredibus ſuis ex parte patris: &amp; ſi heredes non habuerit ex parte patris, tunc hereditas illa ad dominum feodi illius ut eſcaeta ſua re<g ref="char:EOLhyphen"/>vertetur &amp; ad heredes ex parte matris ſue minime deſcendet.</p>
+            <p>Si quis perquiret terras ſibi &amp; here<g ref="char:EOLhyphen"/>dibus ſuis &amp; obiit ſine herede de corpore ſuo ut predicitur, tunc terra illa deſcen<g ref="char:EOLhyphen"/>det proximo heredi ex parte patris ſui ſi talem heredem habuerit.</p>
+            <p>Et ſi nullum talem heredem ex parte patris habuerit tunc ad proximum he<g ref="char:EOLhyphen"/>redem ſuum ex parte matris ſue de<g ref="char:EOLhyphen"/>ſcendet.</p>
+            <p>Ex conſuetudine regni habetur quod filius natus ante matrimonium eſt ba<g ref="char:EOLhyphen"/>ſtardus licet per eundem ventrem fue<g ref="char:EOLhyphen"/>rit genitus.</p>
+            <p>Baſtardia generalis alligata debet probari &amp; triari per juratam &amp; non per ordinarium.</p>
+            <pb n="43" facs="tcp:115938:25"/>
+            <p>Bona &amp; catalla duabus perſonis con<g ref="char:EOLhyphen"/>junctum datam manebunt diutius vi<g ref="char:EOLhyphen"/>venti per jus accreſcendi.</p>
+            <p>Nullus ultiones aut diſtrictiones fa<g ref="char:EOLhyphen"/>ciat abſque conſideratione curie domini regis licet dampnum vel injuria ſibi fiant a vicino ſuo.</p>
+            <p>Bona &amp; catalla nec realia nec perſo<g ref="char:EOLhyphen"/>nalia nunquam tranſient ad heredem ſed ad executores niſi in aliqua patria ex conſuetudine ſpeciali aliter habeatur.</p>
+            <p>Vir habebit jure ſuo proprio omnia bona perſonalia que fuerint uxoris ſue tempore matrimonii interdos ſolemp<g ref="char:EOLhyphen"/>nizati vel poſt. Per utlagariam bona utlegati domino regi ſunt confiſcata. Lex &amp; conſuetudo habetur in Anglia quod vir habebit totam hereditatem uxo<g ref="char:EOLhyphen"/>ris ſue pro termino vite ejuſdem viri de qua vir ſeiſitus ſive in feodo vel in feodo talliato in jure uxoris ſue poſt ſponſalia inter eos ſolempnizata ut tenens per le<g ref="char:EOLhyphen"/>gem Anglie prolem per uxorem ſuam habuerit alias nihil de hereditate illa gaudebit.</p>
+            <p>Habetur conſuetudo quod uxor habe<g ref="char:EOLhyphen"/>bit tertiam partem hereditatis viri ſui de qua vir ſuus fuit ſeiſitus in facto vel lege poſt ſponſalia inter eos celebrata,
+<pb n="44" facs="tcp:115938:26"/> ſive prolem habuerit ſive non pro ter<g ref="char:EOLhyphen"/>mino vite ſue nomine dotis: ſed in hoc caſu oportet quod uxor tempore mortis viri ſui ſit ad minus etatis novem an<g ref="char:EOLhyphen"/>norum quia alias dotes non habebit.</p>
+            <p>Antiqua lex &amp; conſuetudo habetur in Anglia quod poſt mortem tenentis per ſervitium militare, Dominus de quo tenens ille terram ſuam tenuit habebit cuſtodiam maritagium heredis ſui et terre ſue quouſque heres ille ad etatem, xxi. annorum pervenerit ſi maſculus fu<g ref="char:EOLhyphen"/>erit. Et ſi heres ille in tali caſu fuerit plene etatis. xxi. annorum tempore mortis anteceſſoris ſui, tunc ſolvet do<g ref="char:EOLhyphen"/>mino ſuo relenium quod per antiquam conſuetudinem regni non fuerit cer<g ref="char:EOLhyphen"/>tum: ſed per ſtatutum magne carte aſ<g ref="char:EOLhyphen"/>ſignantur in certo. i. ad c. s. pro inte<g ref="char:EOLhyphen"/>gro feodo militis, et ſic ſecundum por<g ref="char:EOLhyphen"/>cionem: Et ſi heres talis tenentis ſit femina et ille tempore mortis anteceſ<g ref="char:EOLhyphen"/>ſoris ſui ſit etatis .xiiii. annorum et ultra, non erit in coſtodia ſed ſol vet re<g ref="char:EOLhyphen"/>lenium ut ſupra. Sed ſi femina illa tempore mortis anteceſſoris ſui fuerit infra etatem .xiiii. annorum, tunc per antiquam conſuetudinem Regni erit in cuſtodia ſolum uſque, xiiii. annos ut
+<pb n="45" facs="tcp:115938:26"/> ſupra: Sed per ſtatutum Weſt. pri<g ref="char:EOLhyphen"/>mi erit in cuſtodia in tali caſu uſque ad. xv. annorum.</p>
+            <p>De terra tenta in ſocagio ex antiqua conſuetudine Regni proximus amicus heredis cui hereditas illa deſcendere non poterit habebit cuſtodiam illius heredis et terre ſue uſque ad etatem ejuſdem heredis .xiiii. annorum, et tunc heres ille intrare poterit. Ec<g ref="char:EOLhyphen"/>cum heres ille ad etatem .xxi. annorum pervenerit, cuſtos reddet ei compotum de proficuis inde receptis pro toto tem<g ref="char:EOLhyphen"/>pore quo proficua inde recepit.</p>
+            <p>Tali heres in ſocagio pro relenio ſuo redditum ſuum duplicabit in anno proximo ſequente mortem anteceſſoris ſui.</p>
+            <p>Antiqua lex et conſuetudo habentur in Anglia quod abſque liberatione ſeiſine nihil liberi tenementi alicujus terre per modum feofamenti tranſire feofato, licet ficcaria feofamenti inde facta et de<g ref="char:EOLhyphen"/>liberata.</p>
+            <p>Voluntas facta de terra unde teſtator tempore mortis ſue ſeiſitus fuerit nul<g ref="char:EOLhyphen"/>lius affectus in lege exiſtit: niſi ſit con<g ref="char:EOLhyphen"/>ſuetudo quod valeret: ut in civitate London habetur.</p>
+            <pb n="46" facs="tcp:115938:27"/>
+            <p>Status ad terminum vite ex antiqua lege et conſuetudine regni reputatur fore liberum tenementum propter quod oportet haberi inde liberatio ſeiſine ut pre dicitur: ſed dimiſsio ad terminum annorum non eſt liberum tenementum in lege ſed catalle reale, ideo non eſt ne<g ref="char:EOLhyphen"/>ceſſe ut fiat inde liberatio ſeiſine.</p>
+            <p>Per antiquam conſuetudinem regni pro reditu ſervitio et pro reditum reſer<g ref="char:EOLhyphen"/>vato ſuper dimiſsione facta ad termi<g ref="char:EOLhyphen"/>num vite vel annorum, ſive ad volun<g ref="char:EOLhyphen"/>tatem quis poteſt diſtringere, licet non exprimatur quod diſtringere poteſt, &amp; in tali caſu poteſt diſtringere avaria te<g ref="char:EOLhyphen"/>nentis ſtatim poſtquam avaria illa ſu<g ref="char:EOLhyphen"/>per terram taliter tentam ſive dimiſ<g ref="char:EOLhyphen"/>ſani inveniri poſsint: ſed avaria alte<g ref="char:EOLhyphen"/>rius quam tenentis que ibidem inveni<g ref="char:EOLhyphen"/>entur diſtringere non poteſt quouſque avaria illa in terra predicta levantes et cubantes invenientur, ſed pro debito ſuper obligatione aut contractu nec pro compoto ſive arreragiis compotis nec pro ſimilibus nullus diſtringere po<g ref="char:EOLhyphen"/>teſt.</p>
+            <p>Per antiquam legem et conſuetudi<g ref="char:EOLhyphen"/>nem regni, omnes exitus qui emergent in aliqua curia de recordo infra regnum
+<pb n="47" facs="tcp:115938:27"/> niſi pauci de quibus non eſt hic neceſſe tractandum, debent triari per .xii. li<g ref="char:EOLhyphen"/>beros et legales homines de viſeneto, et qui nulli parcium ulla affinitate attin<g ref="char:EOLhyphen"/>gent ei in aliis curiis que non ſunt de recordo, ut in com. hundred, curia, baronis et ſimilibus, exitus triari debent per ſacramentum partium et non ali<g ref="char:EOLhyphen"/>ter, niſi er conſenſu partium.</p>
+            <p>Habetur in legibus Anglie quod ſcuta<g ref="char:EOLhyphen"/>gium incertum facit ſervicium milita<g ref="char:EOLhyphen"/>re et quod ſcutagium certum facit ſoca<g ref="char:EOLhyphen"/>gium.</p>
+            <p>Preſcriptio in proficuis capiendo ex<g ref="char:EOLhyphen"/>tra terras alterius facit jus.</p>
+            <p>Limitatio preſcriptionis generaliter ſumpta eſt a tempore cujus contrarii memoria hominum non exiſtit.</p>
+            <p>Sit tenens in brevi de ſcire facias placitat non tenuram generalem pe<g ref="char:EOLhyphen"/>tens poteſt petere executionem ſub pe<g ref="char:EOLhyphen"/>riculo ſuo ſed in aliis brevibus oportet petentem in tali caſu breve ſuum ma<g ref="char:EOLhyphen"/>nu tenere.</p>
+            <p>In brevibus realibus ubi dampna non ſunt recuperanda tenens poteſt diſcla<g ref="char:EOLhyphen"/>mare contra quam diſclamationem pe<g ref="char:EOLhyphen"/>tens non poteſt breve ſuum manute<g ref="char:EOLhyphen"/>nere ſed breve caſſabitur et ſi veritas ſit
+<pb n="49" facs="tcp:115938:28"/> quod eſt tenens tunc petens poteſt li<g ref="char:EOLhyphen"/>cite in terram illam intrare.</p>
+            <p>Aſsignatus fieri poteſt de terra datis in feodum ad terminum vite, l' anno<g ref="char:EOLhyphen"/>rum. Licet nulla mentio fiat de aſsig<g ref="char:EOLhyphen"/>natis, eadem lex eſt de redditu, conceſ<g ref="char:EOLhyphen"/>ſo, &amp;c. ſed aliter eſt de garrantia et de conventione.</p>
+            <p>Conditio ad evacuandum liberum te<g ref="char:EOLhyphen"/>nementum fine ſcripto placitari non poteſt.</p>
+            <p>Relaxatio ſive confirmatio facta per eum qui tempore relaxationis vel con<g ref="char:EOLhyphen"/>firmationis illius facte nullum jus inde habent, vaeua eſt in lege licet jus ei po<g ref="char:EOLhyphen"/>ſtea adveniret niſi ſit cum garrantia.</p>
+            <p>Ius l' titulus actionis quod ſolum in actione dependet alteri vendi non poteſt niſi ſolum terram tenenti.</p>
+            <p>In actione debiti ſuper contractu de<g ref="char:EOLhyphen"/>fendens poteſt ſacramentum preſtare quod nihil debet, licet fuit teſtis con<g ref="char:EOLhyphen"/>tractus, aliter eſt ſuper breve de debi<g ref="char:EOLhyphen"/>to proſecuto ſuper dimiſsione terre fa<g ref="char:EOLhyphen"/>cta ad terminum annorum vel ad vo<g ref="char:EOLhyphen"/>luntatem.</p>
+            <p>Si breve de exigendo in caſu felonie aliquem dirigatur, bona ſua domino re<g ref="char:EOLhyphen"/>gi ſint ſtatim confiſcata.</p>
+            <pb n="49" facs="tcp:115938:28"/>
+            <p>Si filius in vita patris ſit attinctus, licet poſtea cartam perdonationis a re<g ref="char:EOLhyphen"/>ge optineat, tamen ſanguis corruptus eſt et heres patri ſuo eſſe non poterit, Ita quod in tali caſu poſt mortem pa<g ref="char:EOLhyphen"/>tris, terra illa eſcaebit, nec fratri ſuo juniori ſi fratrem habeat nullo modo deſcendere poteſt.</p>
+            <p>Si vir alienaverit terram uxoris ſue et obiit, uxor intrare non poteſt, ſed breve quod dicitur cui in vita impetrare oportet.</p>
+            <p>Villanus ante ingreſſum factum per dominum ſuum licite poteſt terras ſuas dare et vendere cuicumque voluerit, et venditio illa ſive donum illud firma &amp; ſtabilia in lege exiſtunt: eadem quo<g ref="char:EOLhyphen"/>que lex habetur de bonis et catallis, ſed ſi dominus ejus ea prius ſeiſierit domi<g ref="char:EOLhyphen"/>no pertinent.</p>
+            <p>Si quis felonus furatus fuerit bona ad valentiam xii. d. vel ultra mor<g ref="char:EOLhyphen"/>te punietur: et ſi ſit infra valentiam, xii. d. vocatur perva latrocinia et non punietur morte ſed aliter ſecundum diſcretionem Iuſtitiariorum.</p>
+            <p>In favorem vite ille qui arramatus eſt ſuper indictamento felonis poteſt calumniare peremptorie xxxvi. jura<g ref="char:EOLhyphen"/>tores,
+<pb n="50" facs="tcp:115938:29"/> quod ſi ultra illum munerum ali<g ref="char:EOLhyphen"/>quem calumpniaverit peremtorie ſeip<g ref="char:EOLhyphen"/>ſum condempnat quia legem recuſavit: ſed cum cauſa poteſt tot juratores ca<g ref="char:EOLhyphen"/>lumpniare quot cauſas poteſt proba<g ref="char:EOLhyphen"/>re.</p>
+            <p>Terra cujuſli<expan>
+                  <am>
+                     <g ref="char:abbus"/>
+                  </am>
+                  <ex>bus</ex>
+               </expan> in lege eſt ab aliis incluſa niſi ex antiquo ſe includere te<g ref="char:EOLhyphen"/>neant.</p>
+            <p>Redditus, communia, paſture rever<g ref="char:EOLhyphen"/>cio vel ſimilia que non jacent in manu<g ref="char:EOLhyphen"/>ali occupatione non poſſunt alteri dari nec concedi ſine ſcriptio.</p>
+            <p>Ille qui recuperaverit debita vel dampna in curia regis per talem actio<g ref="char:EOLhyphen"/>nem ubi-breve de capias jacuit in ori<g ref="char:EOLhyphen"/>ginali infra annum poſt illam recupe<g ref="char:EOLhyphen"/>rationem poteſt habere breve de capias ad ſatisfaciendum, per quod defendens capietur et priſone committetur, a qua non exiet donec debita et dampna plene perſolverit.</p>
+            <p>Si relaxatio aut confirmatio fiat et qui nullam poſſeſsionem habent in ter<g ref="char:EOLhyphen"/>ris illis tempere illius relaxationis ſi<g ref="char:EOLhyphen"/>ve confirmationis facte vacua eſt ac nullius vigore in lege.</p>
+            <p>Nullus poteſt dominum regem diſ<g ref="char:EOLhyphen"/>ſeiſire nec dominus rex aliquem diſſei<g ref="char:EOLhyphen"/>ſire
+<pb n="51" facs="tcp:115938:29"/> potuerit, ita quod liberum tene<g ref="char:EOLhyphen"/>mentum per talem diſſeiſinam tranſ<g ref="char:EOLhyphen"/>fertur de rege ad alium nec e contra. Nullum liberum tenementum poteſt domino regi dari nec ab eo transferri niſi per materiam de recordo, tanta eſt in lege reg. excel.</p>
+            <p>In quibuſdam brevibus fit pro<g ref="char:EOLhyphen"/>ceſſus per ſummonicione attachia<g ref="char:EOLhyphen"/>mentum et diſtringas infinite et in qui<g ref="char:EOLhyphen"/>buſdam per capias infinite et in quibuſ<g ref="char:EOLhyphen"/>dam per utiagariam et quod in brevibus realibus fiet proceſſus perſummonicio<g ref="char:EOLhyphen"/>nem, magnum cape ante apparentiam &amp; per pervum cape poſt apparentiam.</p>
+            <p>Mandans aliquam tranſgreſsionem fieri, eſt tranſgreſſor.</p>
+            <p>Ille qui habent poſſeſsionem terra<g ref="char:EOLhyphen"/>rum licet injuſte, tamen jus habent verſus omnes preter verſus eum qui verum jus inde habent.</p>
+            <p>Actio realis proſecuta verſus aliquem qui nihil habet in repetita, caſſanda eſt in lege.</p>
+            <p>Alienatio tenentis l' ingreſſus in re<g ref="char:EOLhyphen"/>ligionem pendente brevi verſus eum nec ſi tenens fiat nilles aut ſi tenens ſit mulier et virum ceperit pendente bre<g ref="char:EOLhyphen"/>vi, breve non caſſabit.</p>
+            <pb n="52" facs="tcp:115938:30"/>
+            <p>Si terra aliqua et redditus aliquis exiens de eadem terra in una manu re<g ref="char:EOLhyphen"/>manent de ſimili ſtatu et ſimili ſecu<g ref="char:EOLhyphen"/>ritate tituli redditus ille extinctus eſt.</p>
+            <p>Si terra aliqua deſcenderit ei qui jus habet ad eandem terram in meliore jure ſuo, ſi noluerit in lege judicabitur.</p>
+            <p>Si duo tituli concurrant ſenior tituli eſt preferendus.</p>
+            <p>Quilibet pro dampnis avariorum ſuorum in paſcendo et terram alterius conculcando reſpondere tenetur niſi ſit inde juſtificationis cauſa.</p>
+            <p>Si petens pendente brevi ſuo intrat in rem petitam breve caſſabit,</p>
+            <p>In Kentia eſt quedam conſuetudo que vocatur Gavelkend ubi omnes fra<g ref="char:EOLhyphen"/>tres ſimul hereditabunt ſicut ſorores ad communem legem.</p>
+            <p>Perticularis conſuetudo habetur que vocatur Borough-engliſh ubi filius junior ſolum patri ſuccedet: ut eſt in villa Nottingham et in civitate Lon<g ref="char:EOLhyphen"/>don alia conſuetudo habetur quod illi qui in civitate illa ſunt liberi, poſſunt per teſtamenta ſua terras ſuas etiam de quibus ſeiſite exiſtunt legalie cui<g ref="char:EOLhyphen"/>cumque voluerint, niſi ad manum mor<g ref="char:EOLhyphen"/>tuam et quod ille qui ſunt cives et li<g ref="char:EOLhyphen"/>beri
+<pb n="53" facs="tcp:115938:30"/> ibidem etiam ad manum mor<g ref="char:EOLhyphen"/>tuam terras ſuas legare poterint.</p>
+            <p>In Gavelkynd licet pater ſuſpenda<g ref="char:EOLhyphen"/>tur, tamen filius patri in hereditatem ſuccedet.</p>
+            <p>In inſula hominis qui furatur capo<g ref="char:EOLhyphen"/>nem vel gallinam ſuſpendetur, ſi vero equum non ſuſpendetur.</p>
+            <p>In aliqua patria per conſuetudinem ſpecialem mulier habebit medietatem hereditatis viri ſui nomine dotis quam<g ref="char:EOLhyphen"/>diu ſola vixit.</p>
+            <p>In aliqua patria vir habebit medieta<g ref="char:EOLhyphen"/>tem hereditatis uxoris ſue pro termino vite ſue licet etiam prolem per eum non habuerit.</p>
+            <p>In aliqua patria infans cum ſit eta<g ref="char:EOLhyphen"/>te xv. annorum poteſt feofamentum fa<g ref="char:EOLhyphen"/>cere &amp; in alia patria cum ſit ulna panni metire, &amp;c.</p>
+            <p>In aliquibus dominiis liberi tenen<g ref="char:EOLhyphen"/>tes poſſunt terras ſuas in curia domini ſui ſurſum reddere per virgam vel ali<g ref="char:EOLhyphen"/>ter ſecundum uſum curie illius, &amp; in ta<g ref="char:EOLhyphen"/>li caſu per illam ſurſum redditionem liberum tenementum inde tranſibit ad illum cui fit illa ſurſum redditio abſque aliqua liberatione ſer ſive inde fienda.</p>
+            <pb n="54" facs="tcp:115938:31"/>
+            <p>In Gavelkynd garrantia inde facta deſcendet ſolum ſuper filium ſeniorem qui eſt heres ad communem legem.</p>
+            <p>Garrantia facta per infantem qui per conſuetudinem feofamentum fecerit vacua eſt in lege.</p>
+            <p>Relaxatio ſimiliter per eum facta va<g ref="char:EOLhyphen"/>cua etiam eſt in lege.</p>
+            <p>Si quis obligatus in obligatione pe<g ref="char:EOLhyphen"/>cunias ſolverit et acquietantiam non reperit vel captam perdit quod tunc il<g ref="char:EOLhyphen"/>la ſolutio ſecundum legem Anglie ni<g ref="char:EOLhyphen"/>hil ei prodeſt.</p>
+            <p>Iuditia in curiis domini regis red<g ref="char:EOLhyphen"/>dita non adnihilentur ſine errore at<g ref="char:EOLhyphen"/>tincta l' breve de certificatione nove diſſeiſive.</p>
+            <p>Si duo teneant alique boſcum con<g ref="char:EOLhyphen"/>junctim et unus eorum totum boſcum ſuccidet et omnes proficues inde con<g ref="char:EOLhyphen"/>vertit ad opus ſuum proprium in iſto caſu ſocius nullum inde habet reme<g ref="char:EOLhyphen"/>dium verſus eum ad communem le<g ref="char:EOLhyphen"/>gem.</p>
+            <p>Si quis fecerit factum feofamenti pluribus de una acra terre et virtute illius facit liberationem ſeiſive uni e<g ref="char:EOLhyphen"/>orum nomine omnium. In iſto caſu omnes tam abſentes quam preſentes
+<pb n="55" facs="tcp:115938:31"/> habent jus in acra illa in lege: ſed a<g ref="char:EOLhyphen"/>liter eſſet ſi talis liberatio ſeiſive facta fuerit uni nomine pluriorum abſenti<g ref="char:EOLhyphen"/>um ſive facto quia tunc illi cui facta fu<g ref="char:EOLhyphen"/>erit liberantia ſeiſive haberet ſolum jus in illa acra ſecundum legem &amp; alii nihil inde haberent.</p>
+            <p>Si quis ſeifitus de quodam manerio ad quod habet communiam paſture per<g ref="char:EOLhyphen"/>tinente &amp; quandam advocationem ap<g ref="char:EOLhyphen"/>pendentem facit feofamentum manerii predicti alteri ex mero motu ſuo &amp; non dicit habendum ſibi, &amp;c. cum pertinen<g ref="char:EOLhyphen"/>tiis. In iſto caſu feofatus habet jus ex lege ſolum ad manerium predictum et ad communiam paſture predicte &amp; non advocationem predictam. Sed ſi feo<g ref="char:EOLhyphen"/>famentum factum fuiſſet de manerio predicto habendum ſibi et heredibus ſuis cum pertinentiis, tunc feofat. haberet jus ad manerium predictum et ad communiam illam ac etiam ad ad<g ref="char:EOLhyphen"/>vocationem in lege.</p>
+            <p>Si dominus rex ſeiſitus de manerio cum advocatione eidem manerio perti<g ref="char:EOLhyphen"/>nente ex mero motu dederit idem ma<g ref="char:EOLhyphen"/>nerium alteri per litteras ſuas paten<g ref="char:EOLhyphen"/>tes, habebit ſibi et hered. ſuis cum pertinentiis. In iſto caſu cui fit do<g ref="char:EOLhyphen"/>num
+<pb n="56" facs="tcp:115938:32"/> non habet jus ad advocationem predictam in lege: ſed ſi littere paten<g ref="char:EOLhyphen"/>tes fuiſſent taliter facte ſcilicet ha<g ref="char:EOLhyphen"/>bend. manerium, &amp;c. ſibi &amp; heredibus ſuis cum advocatione predicta tunc haberent jus ad manerium &amp; advoca. predic. in lege.</p>
+            <p>Si dominus Rex faciet ſeiſiri in manibus ſuis manerium cum pertinen<g ref="char:EOLhyphen"/>tiis ratione cuſtodie ad quod eſt que<g ref="char:EOLhyphen"/>dam advocateo pertinens. Et cum heres ad plenam etatem pervencrit dominus rex facit ei liberationem extra Cancel<g ref="char:EOLhyphen"/>lariam de maneriis predictis per hec verba cum pertinentiis, advocatio tran<g ref="char:EOLhyphen"/>ſit heredi. Licet expreſſa mentio mini<g ref="char:EOLhyphen"/>me fiat de advocatione ita quodd. he<g ref="char:EOLhyphen"/>res ille ad proximam vocationem habet jus preſentandi ad eccleſiam illam in lege.</p>
+            <p>Si quis fecerit dimiſsionem ad ter<g ref="char:EOLhyphen"/>minum annorum, reddendo ſibi et here<g ref="char:EOLhyphen"/>dibus ſuis, x. s. per annum ad feſtum ſancti michaelis, &amp;c. ſub conditione quod ſi redditus predictus aretro fuerit per xl. dies, &amp;c. quod tunc bene licebit di<g ref="char:EOLhyphen"/>miſſori &amp; heredibus ſuis reintrare, &amp; poſtea reditus predictus aretro extite<g ref="char:EOLhyphen"/>rit, &amp; dimiſſor petit &amp; demandat reddi<g ref="char:EOLhyphen"/>tum
+<pb n="57" facs="tcp:115938:32"/> ſecundum formam legis &amp; obiit, &amp; heres ſuus intrat: intratio illa eſt bona &amp; juſta in lege: Sed ſi pater ſuus non demandaſſet redditum in vita ſua &amp; he<g ref="char:EOLhyphen"/>res ſuus poſt mortem ſuam ſeciſſet de<g ref="char:EOLhyphen"/>mandam &amp; pro defectu ſolutitnis, rein<g ref="char:EOLhyphen"/>traſſet tunc reintratio illa non fuiſſet bona in lege.</p>
+            <p>Si tenens in dote ſeminaverit agros ſuos &amp; obiit ante maturitatem granorum grana illa pertinent executioribus te<g ref="char:EOLhyphen"/>nentis in dote per legem &amp; non ipſi in reverſione, aliter eſt de herbis &amp; fructi<g ref="char:EOLhyphen"/>bus.</p>
+            <p>Si mulier ſemina verit terram ſuam &amp; poſtea virum reperit &amp; vir ante ſepera<g ref="char:EOLhyphen"/>tionem obiit, tunc blada illa pertinent mulieri in lege: ſed aliter eſſet ſi vir poſt matrimonium ſeminaſſet terram quia tunc blada illa executoribus viri pertinerent in lege.</p>
+            <p>Si quis de terra aliqua ſeiſitus terram illam alter legat legatio illa ſecundum legem anglie vacua eſt, nulliuſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vigoris &amp; heres ſuus terram illam habebit.</p>
+            <p>Si quis alteri dederit terram per hoc verba habend. &amp; tenend. ſibi imperpetu<g ref="char:EOLhyphen"/>um intendens quod terram illam habe<g ref="char:EOLhyphen"/>bit ſibi &amp; heredibus ſuis, in hoc caſu cui
+<pb n="58" facs="tcp:115938:33"/> terra illa data eſt terram illam ſolum habebit ad terminum vite ſue &amp; poſt mortem ad donatorem revertetur per legem.</p>
+            <p>Si quis dimiſerit terram &amp; redditum quem prius habuit, alteri ad terminum vite &amp; tenens de terra unde redditus exiit attornaverit ut oportet poſteaque predictus tenens ad. terminum vite terram &amp; redditum predictum aliena<g ref="char:EOLhyphen"/>verit per terminum vite alterius <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in feodo, tunc ille in revertione ſecundum legem Anglie terram illam intrare &amp; tenere poteſt: ſed redditum illum ha<g ref="char:EOLhyphen"/>bere non poteſt. Nam ſecundum le<g ref="char:EOLhyphen"/>legem anglie terra predicta per predicta alienationem forisfacta eſt &amp; non red<g ref="char:EOLhyphen"/>ditus.</p>
+            <p>Filius nat. poſt matrimonium he<g ref="char:EOLhyphen"/>reditate patris gaudebit pre filio nato ante matrimonium, et cauſa eſt quia lex et conſuetudo Anglie talem habet ut legittimum et filium natum ante matrimonium baſtardum judicat.</p>
+            <p>Si terra detur viro ex uxori ſue et tertie perſone in feodo et poſtea vir ter<g ref="char:EOLhyphen"/>ram illam aliena verit et obiit, mulier medietatem illius terre recuperabit. Sed ſi terra detur viro &amp; mulieri non
+<pb n="59" facs="tcp:115938:33"/> maritate &amp; tertie perſone: &amp; poſtea vir &amp; mulier illa ſimul maritentur et po<g ref="char:EOLhyphen"/>ſtea vir ille alienaverit &amp; obiit, in illo caſu mulier ſolum tertia partem recu<g ref="char:EOLhyphen"/>perabit per legem Anglie.</p>
+            <p>Emptor jus habet erga omnes ad bo<g ref="char:EOLhyphen"/>na empta in feriis l' marcatis dum con<g ref="char:EOLhyphen"/>ſcius prime proprietatis non fuerit, ita quod emptor tolnetum ſolvat aut aliud fecerit pro tali emptione ſecundum con<g ref="char:EOLhyphen"/>ſuetudinem feria R. illa R.</p>
+            <p>Deodanda forisfacta ſunt regi cui<g ref="char:EOLhyphen"/>cumque prius pertinebant, &amp; cauſa illa quare forisfacta ſunt non habentur niſi qua lex judicat ea forisfieri &amp; per ala ipſius mortui diſponi.</p>
+            <p>Dominus rex habebit catalla utlega<g ref="char:EOLhyphen"/>to R. felonum fugitiorum ac waynfeto<g ref="char:EOLhyphen"/>rum ac extrahuras bona confiſcata dum ſecundum legem cum debito circum<g ref="char:EOLhyphen"/>ſtantiis forisfacta ſunt: Sed bona illo<g ref="char:EOLhyphen"/>rum qui ſolum indictati ſunt pro felo<g ref="char:EOLhyphen"/>nia vel murdro non ſunt forisfacta in lege quouſque ille indictatus ſecundum legem anglie attinctus ſit.</p>
+            <p>Si tenens ceſſaverit perbiennium l' ſi tenens teneri de domino ſuo in curia de recordo diſclama verit, l' ſi tenens ad terminum vite in brevi de quod in<g ref="char:EOLhyphen"/>tur
+<pb n="60" facs="tcp:115938:34"/> clamat feodum clamat l' in actione reali auxilium de alio quod de ipſo in revertione petit, l' ſi Abbas et conven<g ref="char:EOLhyphen"/>tus terram fundationis dominis ſue a<g ref="char:EOLhyphen"/>lienaverit. In his caſibus &amp; his ſimi<g ref="char:EOLhyphen"/>libus forisfacta eſt terra et nulla alia cauſa habetur niſi quia terra illa in ca<g ref="char:EOLhyphen"/>ſubus predictis ſecundum legem foris<g ref="char:EOLhyphen"/>facta eſt.</p>
+            <p>Blada creſcentia ſuper terram dimiſ<g ref="char:EOLhyphen"/>ſam ad terminum annorum in fine ter<g ref="char:EOLhyphen"/>mini pertinent ipſi in revertione: ſed aliter eſt de bladum tenentum ad ter<g ref="char:EOLhyphen"/>minum vite.</p>
+            <p>Executor tenentis ad terminum vite habebit bladam creſcentiam per legem anglie.</p>
+            <p>Succeſſor rector unius Eccleſie ha<g ref="char:EOLhyphen"/>bebit blada creſcen. cum decimis per legem eccleſie.</p>
+            <p>Si dimiſſio fiat de certa terra ad ter<g ref="char:EOLhyphen"/>minum vite remanere inde rectis here<g ref="char:EOLhyphen"/>dibus Iohannis &amp; ſtyle. Si in iſto caſu tenens ad ter. vite obierit in vita Io<g ref="char:EOLhyphen"/>hannis at ſtyle, tunc tempora illa ad donatorem revertetur. Sed hoc in<g ref="char:EOLhyphen"/>telligendum eſt, cum remanere illud factum fuerit ex mero motu quia re<g ref="char:EOLhyphen"/>manere illud vacuum eſt in lege. Sed
+<pb n="61" facs="tcp:115938:34"/> in illo caſu ſi Iohannes at ſtyle cui remanere illud limitatum fuit obiit in vita tenentis ad terminum vite tunc remanere illud eſſet bonum in lege.</p>
+            <p>In caſu predicto ſi Iohannes at ſtyle obiit vivente, tenente ad terminum vi<g ref="char:EOLhyphen"/>te habens filiam &amp; heredem uxore ſua cum filio pregnante poſt eaque tenens ad terminum vite obiit &amp; filia ut in re<g ref="char:EOLhyphen"/>manere illud ut heres intrat juſte ut poterit, poſteaque filius natus eſt qui tunc heres patri ſuo in lege cenſetur. Tamen filia terra predicta gaudebit imper petuum, quia lex talis eſt quod jus inde filie pertinet.</p>
+            <p>Si infans etate, xx. annorum habens ſe et ſua gubernare terram ſuam vendi<g ref="char:EOLhyphen"/>derit &amp; cum pecunia inde recepta aliam terram majoris precii quam fuerit, pri<g ref="char:EOLhyphen"/>ma emittet poſſidet, poteſt terram pri<g ref="char:EOLhyphen"/>mam repetere per legem.</p>
+            <p>Per liberationem ſeiſine factam per aliquem qui eſt plene etatis extra pri<g ref="char:EOLhyphen"/>ſonam nec viro coopertam, transfertur poſſeſsio &amp; jus ei cui talis fit ſeiſine li<g ref="char:EOLhyphen"/>beratio.</p>
+            <p>Si quis impanellatus in aliqua ju<g ref="char:EOLhyphen"/>rata per breve de diſtrictione apparere noluer it. Lex anglie vult quod exi<g ref="char:EOLhyphen"/>tus
+<pb n="62" facs="tcp:115938:35"/> perdat qui pro rege ex antiqua con<g ref="char:EOLhyphen"/>ſuetudine regni levari poſſunt tam de terra uxoris etiam poſt mortem viri ſui qui eos foris fecerit quod de terra illius in revertione cum per tenentem ſuum ad terminum vite jam mortuum foriſ<g ref="char:EOLhyphen"/>facti fuerint,</p>
+            <p>Vbi duo tituli concurrunt ſenior ti<g ref="char:EOLhyphen"/>tulus eſt preferendus.</p>
+            <p>Si quis fecerit alteri feofamentum in feodo de certa terra habend. ſibi et he<g ref="char:EOLhyphen"/>redibus ſuis ſub conditione quod ſi feo<g ref="char:EOLhyphen"/>fatus inde aliquem alterum feofari con<g ref="char:EOLhyphen"/>tingerit quod tunc bonum licebit feofato<g ref="char:EOLhyphen"/>ri &amp; heredibus ſuis in terra illa reintrare &amp; eam ut impriſtome ſtatu ſuo rehabete predicto feofamento non abſtante con<g ref="char:EOLhyphen"/>ditio predicta in lege anglie vacua ex<g ref="char:EOLhyphen"/>iſtit nullinſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vigoris nec licebit feofa<g ref="char:EOLhyphen"/>tori reintrare licet feofatus faciat feofa<g ref="char:EOLhyphen"/>ment. contra formam conditionis illius.</p>
+            <p>Similis lex habetur, ſi ſuper ſtatu feodi ſimplicis facta fuerit conditio quod feofatus non fecerit vaſtum. Ta<g ref="char:EOLhyphen"/>lis conditio etiam vacua eſſet in lege. Sed ſi conditio facta fuiſſet quod non fe<g ref="char:EOLhyphen"/>ofaret talem l' talem, &amp;c. conditio illa eſſet bona quia non eſſet facto ſuo nec ſtatu feodi ſimplicis mere contraria, nam alios potit inde feofare.</p>
+            <pb n="63" facs="tcp:115938:35"/>
+            <p>Si quis intendens alteri dare terram in feodo ſimplici facit ei factum in quo continetur quod habebit terram illam imperpetuum intendens quod per hoc verbum imperpetuum habebit terram illam ſibi et heredibus ſuis in hoc caſu fruſtrata eſt intentio in lege, nam ſo<g ref="char:EOLhyphen"/>lum habet terram illam ad terminum vite.</p>
+            <p>Si quis dederit alteri terram quam habent ad terminum vite, xx. annorum habendum ſibi &amp; heredibus ſuis, inten<g ref="char:EOLhyphen"/>dens quod heredes illius cui terram il<g ref="char:EOLhyphen"/>lam conſceſſerit terra illa gaudebit du<g ref="char:EOLhyphen"/>rante termino illo fruſtrata eſt inten<g ref="char:EOLhyphen"/>tio: eo quod non eſt ordinata ſecundum legem ut ſupra. Nam executores ſui ſecundum legem in illo caſu termino illo gaudebunt et non heredum.</p>
+            <p>Si quis dat terram viro &amp; uxori ſue, &amp; tertie perſone intendens quod quili<g ref="char:EOLhyphen"/>bet eorum tertiam partem inde accipe<g ref="char:EOLhyphen"/>ret, fruſtrata eſt intentio nam vir &amp; mulier ut una perſona in lege compu<g ref="char:EOLhyphen"/>tantur et niſi uniam partem ut una ſo<g ref="char:EOLhyphen"/>la perſona capient: et ſic vir &amp; uxor ſolum medietatem inde contra inten<g ref="char:EOLhyphen"/>tionem donatoris habebunt &amp; tertia per<g ref="char:EOLhyphen"/>ſona capiet aliam medietatem.</p>
+            <pb n="64" facs="tcp:115938:36"/>
+            <p>Lex Anglie non eſt quod omnes con<g ref="char:EOLhyphen"/>ditio facta ſine ſcripto ſit vacua: ſed quod non poteſt placitare ſine ſcripto.</p>
+            <p>Si teneus in tallio poſt poſſibilita<g ref="char:EOLhyphen"/>tem exitus extincti fecerit vaſtum non tenetur reſtituere ſibi in reverſione ad valorem rei vaſtate ſecundum le<g ref="char:EOLhyphen"/>gem.</p>
+            <p>Si quis utlegatus fuerit ſuper acti<g ref="char:EOLhyphen"/>one in qua returnatum fuit quod defen<g ref="char:EOLhyphen"/>dens fuit quinto exactus cum ſecundum veritatem nunquam fuerit exactus do<g ref="char:EOLhyphen"/>minus rex poteſt bona talia utlagati ut ſua retinere.</p>
+            <p>Executores non tenentur reſtituere dampna pro perſonali tranſgreſsione facta per teſtatorum ſecundum legem Anglie.</p>
+            <p>Si quis obierit ſeiſitus de C. acris terre &amp; poſt ejus mortem vir filie ſue &amp; heredis ſtatim poſt notitiam mortis patris uxoris ſue ceperit iter ad intran<g ref="char:EOLhyphen"/>dum in terram illam: ſed antiquam ad terram illam venire poterit uxor ſua obiit. Non erit tenens per legem Anglie poſito quod prolem habuerit.</p>
+            <p>Si redditus alicui concadatur per<g ref="char:EOLhyphen"/>cipiendus de duabus acris terre &amp; poſtea ille cui fit illa conceſsio perquirat u<g ref="char:EOLhyphen"/>nam
+<pb n="65" facs="tcp:115938:36"/> acram dictarum duarum acrarum terre &amp; factum eſt ei inde feofamentum totus redditus predictus extinctus eſt ſe<g ref="char:EOLhyphen"/>cundum legem.</p>
+            <p>Si nativus concedatur uni ad termi<g ref="char:EOLhyphen"/>num vite, &amp; nativus ille perquirat ter<g ref="char:EOLhyphen"/>ras ſibi &amp; heredibus ſuis in iſto caſu te<g ref="char:EOLhyphen"/>nens ad terminum vite intrabit in ter<g ref="char:EOLhyphen"/>ras illas &amp; gaudebit ſibi &amp; heredibus ſuis ſecundum legem Anglie.</p>
+            <p>Si quis habens filium natum ante matrimonium &amp; alium poſt matrimo<g ref="char:EOLhyphen"/>nium per ultimam voluntatem ſuam legat filio &amp; heredi ſuo omnia bona ſua qui natus eſt poſt matrimonium gau<g ref="char:EOLhyphen"/>debit legatis patris.</p>
+            <p>In debito verſus heredem reſponden<g ref="char:EOLhyphen"/>tem quod nihil habet per diſcenſum &amp; inventeum eſt per Iurat. quod habet unam acram terre, Executio fiet de om<g ref="char:EOLhyphen"/>nibus bonis ſuis pro ſuo falſo pl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ito.</p>
+            <p>In debito verſus executorum reſpon<g ref="char:EOLhyphen"/>dentem &amp; facientes aliud placitum in barram quod plene adminiſtraverunt, &amp; inventum eſt per Iurat. contra eos executio fiet de bonis ſuis propriis per ſuo falſa placito.</p>
+            <p>Si unus executum obiit, bona te<g ref="char:EOLhyphen"/>ſtat. manebunt executorum vinente.
+<pb n="66" facs="tcp:115938:37"/> Nam ille erit onoratus executione te<g ref="char:EOLhyphen"/>ſtamenti teſtatoris et non executores.</p>
+            <p>Si unus adminiſtrat. obiit ſui exe<g ref="char:EOLhyphen"/>cutorum non poſſunt adminiſtrare bona inteſtati: ſed Ordinarius faciat novas litteras ad miniſtrandum.</p>
+            <p>Si executorum non vendunt terras diviſas heres intrabit, quia nullus ali<g ref="char:EOLhyphen"/>us terras illas vendere poteſt.</p>
+            <p>Nullus habebit auxilium de domino rege ſi dominus rex non fuerit damni<g ref="char:EOLhyphen"/>ficat.</p>
+            <p>Terra data homini habend. tamdiu talis arbor creſsit. eſt bonum feodum ſimplex deternabile ſuper vita.</p>
+            <p>Terra diviſis uni imperpetuum ha<g ref="char:EOLhyphen"/>bet feodum ſimplex in terra illa.</p>
+            <p>Terra data uni imperpetuum non habent feodum ſimplex ſed eſt tenens ad terminum vite de terra illa.</p>
+            <div type="part">
+               <head>Curie domini regis.</head>
+               <p>CAncellaria regis eſt curia in qua inter alia impetrantur brevia ori<g ref="char:EOLhyphen"/>ginalia aliis curis regis juxta neceſsi<g ref="char:EOLhyphen"/>tatem querentium dirigenda,</p>
+               <p>Remedium per comunmem legem non datum, petendum eſt in Cancellaria.</p>
+               <p>Nemo recedet a Cancellario ſine re<g ref="char:EOLhyphen"/>medio.</p>
+               <pb n="67" facs="tcp:115938:37"/>
+               <p>Bancus regis eſt curia in qua tra<g ref="char:EOLhyphen"/>ctantur proditiones, murdra, homici<g ref="char:EOLhyphen"/>dia, felon. &amp; alia coutra pacem Regis facta.</p>
+               <p>Communis bancus eſt curia in qua tractantur communia placita, ut de ter<g ref="char:EOLhyphen"/>ris &amp; tenementis &amp; de debitis et de catal<g ref="char:EOLhyphen"/>lis et his ſimilibus.</p>
+               <p>Scaccarie regis, eſt curia in qua tractantur diverſa negotia ipſum do<g ref="char:EOLhyphen"/>minum regem ſolummodo tangentia ut de Vice. Eſcaeta, receptoribus, Ballivis, &amp; aliis officiariis regis &amp; his ſimilibus he curie.</p>
+               <p>Sunt curie de Recordo, quia illi qui in eis preſident per litteras patentes regis aſsignare debent.</p>
+               <p>Habentque curie ille multas et di<g ref="char:EOLhyphen"/>verſas aucthoritates, de quibus non eſt ad preſens dicendum.</p>
+               <p>Diverſe alie curie in regno Anglie ſunt minoris tamen aucthoritatis quam curie predicte.</p>
+               <p>Nam in quolibet com. infra reg<g ref="char:EOLhyphen"/>num eſt quedam curiam que voca<g ref="char:EOLhyphen"/>tur Comitatus, et alia que voca<g ref="char:EOLhyphen"/>tur turnus Vicecomitis: et in quoli<g ref="char:EOLhyphen"/>bet manerio infra regnum habetur quedam curia eidem manerio incidens,
+<pb n="68" facs="tcp:115938:38"/> que vocatur curia Baronis: et in om<g ref="char:EOLhyphen"/>nibus nundinis et feriis habetur que<g ref="char:EOLhyphen"/>dam curia iiſdem feriis iucidens que vocatur curia Pedis pulveriſati, que ſolum tenebitur tempore feriarum il<g ref="char:EOLhyphen"/>larum.</p>
+               <p>Ex antiqua conſuetudine regni ha<g ref="char:EOLhyphen"/>betur quod omnes faciant et recipiant juſtitiam in curia regis, et illa conſue<g ref="char:EOLhyphen"/>tudo confirmatur per ſtatutum de Mar<g ref="char:EOLhyphen"/>lebrig. ca. ii. quod tale eſt. Omnes tam majores quam minores juſtitiam faciant et recipiant in curia regis, et nullus ultiones aut diſtrictiones faci<g ref="char:EOLhyphen"/>at abſque conſideratione curie domini regis licet dampnum vel injuria ſibi fiant a vicino ſuo.</p>
+               <p>Ex conſuetudine regni habetur quod nullus mittetur ad reſpondendum nec judicetur niſi ſecundum legem terre. Et hec conſuetudo confirmatur per Magnam cartam. ca. xxvi. ubi ſic ha<g ref="char:EOLhyphen"/>betur, nullus liber homo capietur aut inpriſonetur aut diſſeiſie tur aut aliquo modo deſtruetur, nec ſuper eum ibi<g ref="char:EOLhyphen"/>mus, nec ſuper eum mittemus niſi per legale judicium parium ſuorum et per legem terre.</p>
+               <pb n="69" facs="tcp:115938:38"/>
+               <p>Alie quoque generales conſuetudines regni Anglie habentur que vim Regis retinent, nec abſque perliamento mu<g ref="char:EOLhyphen"/>tari poſſunt.</p>
+               <p>Anno xxxviii. regni Regis Henrici octavi.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:115938:39"/>
+            <head>THE TABLE.</head>
+            <list>
+               <item>THe manner of calling the Court <hi>Page 1.</hi>
+               </item>
+               <item>How the Patents muſt be read <hi>Page 2.</hi>
+               </item>
+               <item>The manner how to call the Sheriffs <hi>Page 3.</hi>
+               </item>
+               <item>How to call the Juſtices of the Peace <hi>Page 3.</hi>
+               </item>
+               <item>How to call the Coroners, Stewards, and High Conſtables <hi>Page 3.</hi>
+               </item>
+               <item>When the Commiſſions of <hi>Oyer and Terminer</hi> are to be read <hi>Page 4.</hi>
+               </item>
+               <item>How to call the Grand Jury <hi>Page 4.</hi>
+               </item>
+               <item>The Oath given to the Grand Jury <hi>Page 5.</hi>
+               </item>
+               <item>The manner of calling the Proſecutors againſt the Priſoners <hi>Page 6.</hi>
+               </item>
+               <item>The manner of fyling the Recognizances and bill <hi>Page 7.</hi>
+               </item>
+               <item>The manner of Arraynment of the Priſo<g ref="char:EOLhyphen"/>ner, and calling the bayls <hi>Page 8.</hi>
+               </item>
+               <item>The manner of entring of the Priſoners
+<pb facs="tcp:115938:39"/> Pleas and Confeſſions <hi>Page 9.</hi>
+               </item>
+               <item>The manner of calling the Jury of Life and Death <hi>Page 10.</hi>
+               </item>
+               <item>The oath given to the Jury of Life and Death <hi>Page 11.</hi>
+               </item>
+               <item>The tryall of the Priſoners <hi>Page 12.</hi>
+               </item>
+               <item>The manner of taking the Verdict of the Jury of Life and Death <hi>Page 15.</hi>
+               </item>
+               <item>The Conſtables preſentments <hi>Page 15 16.</hi>
+               </item>
+               <item>The manner of the Tryall of Ryotors and Treſpaſſors <hi>Page 17.</hi>
+               </item>
+               <item>The manner of delivery of the Priſoners by Proclamation <hi>Page 17.</hi>
+               </item>
+               <item>The forme of keeping of the Goale book <hi>Page 18.</hi>
+               </item>
+               <item>The manner of the Callender for the Judge before he proceedeth to ſentence <hi>Page 19.</hi>
+               </item>
+               <item>The forme of calling the Priſoners to hear Judgment <hi>Page 23.</hi>
+               </item>
+               <item>Allowing the Clergie <hi>Page 23.</hi>
+               </item>
+               <item>The manner of giving Judgment <hi>Page 24.</hi>
+               </item>
+               <item>The Proclamation againſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecuſants <hi>Page 25.</hi>
+               </item>
+               <item>The Adjurning of the Aſſiſes <hi>Page 25.</hi>
+               </item>
+               <item>The Proceeding on the Niſi prius ſide <hi>Page 27.</hi>
+               </item>
+               <item>Calling the Jury <hi>Page 28.</hi>
+               </item>
+               <item>Calling the defendant <hi>Page 28.</hi>
+               </item>
+               <item>Challenges <hi>Page 28.</hi>
+               </item>
+               <item>Returning and calling the Tales <hi>Page 29.</hi>
+               </item>
+               <item>The Juries oath <hi>Page 29.</hi>
+               </item>
+               <pb facs="tcp:115938:40"/>
+               <item>The Charge to the Jury of <hi>Niſi prius Page 29.</hi>
+               </item>
+               <item>Taking the verdict <hi>Page 30. 31.</hi>
+               </item>
+               <item>The manner of returning the Poſteas <hi>Page 32.</hi>
+               </item>
+               <item>The manner of all kinds of Verdicts <hi>Page 33. 34.</hi>
+               </item>
+               <item>Conviction of Recuſants <hi>Page 33.</hi>
+               </item>
+               <item>Generall Eſtreate <hi>Page 33.</hi>
+               </item>
+               <item>Traverſes <hi>Page 34.</hi>
+               </item>
+               <item>Proceſſes, Felons, Treſpaſſors, and Treſ<g ref="char:EOLhyphen"/>paſſes <hi>Page 34.</hi>
+               </item>
+               <item>Women Felons, being with Child <hi>Page 35.</hi>
+               </item>
+               <item>Verdicts in Dower, <hi>Quare Impedit, &amp;c. Page 36, 37.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
